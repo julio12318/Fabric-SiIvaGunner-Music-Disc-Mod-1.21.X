@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    {
+      "item": "minecraft:wolf_armor"
+    },
+    {
+      "item": "minecraft:crossbow"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_snoop_dogg"
+  }
+}

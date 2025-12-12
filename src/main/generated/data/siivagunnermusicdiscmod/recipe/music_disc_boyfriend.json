@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "item": "minecraft:heart_of_the_sea"
+    }
+  },
+  "pattern": [
+    " A ",
+    "B B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_boyfriend"
+  }
+}

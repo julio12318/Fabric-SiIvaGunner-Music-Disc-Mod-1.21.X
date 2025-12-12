@@ -1,0 +1,8 @@
+{
+  "comparator_output": 9,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_nozomi.desc"
+  },
+  "length_in_seconds": 259.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_nozomi"
+}

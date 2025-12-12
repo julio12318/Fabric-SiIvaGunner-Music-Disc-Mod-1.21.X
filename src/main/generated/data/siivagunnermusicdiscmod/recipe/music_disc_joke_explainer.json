@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:torch"
+    },
+    "D": {
+      "item": "minecraft:book"
+    }
+  },
+  "pattern": [
+    "BCB",
+    "BAB",
+    "BDB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_joke_explainer"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_nostalgia_critic.desc"
+  },
+  "length_in_seconds": 81.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_nostalgia_critic"
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 9,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_kazoo_master.desc"
+  },
+  "length_in_seconds": 110.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_kazoo_master"
+}

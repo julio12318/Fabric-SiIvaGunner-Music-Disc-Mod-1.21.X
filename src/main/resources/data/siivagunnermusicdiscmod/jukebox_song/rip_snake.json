@@ -1,0 +1,8 @@
+{
+  "comparator_output": 5,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_snake.desc"
+  },
+  "length_in_seconds": 169.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_snake"
+}

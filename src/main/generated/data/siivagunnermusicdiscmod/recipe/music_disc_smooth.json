@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    {
+      "item": "minecraft:smooth_basalt"
+    },
+    {
+      "item": "minecraft:smooth_stone"
+    },
+    {
+      "item": "minecraft:smooth_sandstone"
+    },
+    {
+      "item": "minecraft:smooth_quartz"
+    },
+    {
+      "item": "minecraft:smooth_red_sandstone"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_smooth"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "tag": "minecraft:planks"
+    },
+    "C": {
+      "item": "minecraft:white_wool"
+    },
+    "D": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "pattern": [
+    "BCC",
+    "BAD",
+    "BCC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_weird_al"
+  }
+}

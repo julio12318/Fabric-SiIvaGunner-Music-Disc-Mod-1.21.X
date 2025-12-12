@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_brainless_kitty.desc"
+  },
+  "length_in_seconds": 374.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_brainless_kitty"
+}

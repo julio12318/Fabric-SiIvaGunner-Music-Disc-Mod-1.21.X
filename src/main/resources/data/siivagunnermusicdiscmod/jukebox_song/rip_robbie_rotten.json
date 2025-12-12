@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_robbie_rotten.desc"
+  },
+  "length_in_seconds": 140.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_robbie_rotten"
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 9,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_haruka.desc"
+  },
+  "length_in_seconds": 209.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_haruka"
+}

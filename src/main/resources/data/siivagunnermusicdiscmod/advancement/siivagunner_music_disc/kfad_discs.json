@@ -1,0 +1,463 @@
+{
+  "parent": "siivagunnermusicdiscmod:siivagunner_music_disc/root",
+  "display": {
+    "icon": {
+      "id": "siivagunnermusicdiscmod:music_disc_john_notwoodman",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.siivagunner_music_disc.kfad_discs.title"
+    },
+    "description": {
+      "translate": "advancements.siivagunner_music_disc.kfad_discs.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "music_disc_ajit_pai": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_ajit_pai"
+          }
+        ]
+      }
+    },
+    "music_disc_geno": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_geno"
+          }
+        ]
+      }
+    },
+    "music_disc_off_the_hook": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_off_the_hook"
+          }
+        ]
+      }
+    },
+    "music_disc_weird_al": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_weird_al"
+          }
+        ]
+      }
+    },
+    "music_disc_pitbull": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_pitbull"
+          }
+        ]
+      }
+    },
+    "music_disc_nintendo_power": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_nintendo_power"
+          }
+        ]
+      }
+    },
+    "music_disc_men_in_black": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_men_in_black"
+          }
+        ]
+      }
+    },
+    "music_disc_zun": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_zun"
+          }
+        ]
+      }
+    },
+    "music_disc_thanos": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_thanos"
+          }
+        ]
+      }
+    },
+    "music_disc_wario_waluigi": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_wario_waluigi"
+          }
+        ]
+      }
+    },
+    "music_disc_dedede": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_dedede"
+          }
+        ]
+      }
+    },
+    "music_disc_snake": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_snake"
+          }
+        ]
+      }
+    },
+    "music_disc_dj_professor_k": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_dj_professor_k"
+          }
+        ]
+      }
+    },
+    "music_disc_etika": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_etika"
+          }
+        ]
+      }
+    },
+    "music_disc_hypercam": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_hypercam"
+          }
+        ]
+      }
+    },
+    "music_disc_quote": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_quote"
+          }
+        ]
+      }
+    },
+    "music_disc_adam_levine": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_adam_levine"
+          }
+        ]
+      }
+    },
+    "music_disc_johnny_bravo": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_johnny_bravo"
+          }
+        ]
+      }
+    },
+    "music_disc_krabs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_krabs"
+          }
+        ]
+      }
+    },
+    "music_disc_mariya_takeuchi": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_mariya_takeuchi"
+          }
+        ]
+      }
+    },
+    "music_disc_robotnik": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_robotnik"
+          }
+        ]
+      }
+    },
+    "music_disc_daft_punk": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_daft_punk"
+          }
+        ]
+      }
+    },
+    "music_disc_papyrus": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_papyrus"
+          }
+        ]
+      }
+    },
+    "music_disc_jack_elmo": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_jack_elmo"
+          }
+        ]
+      }
+    },
+    "music_disc_piccolo": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_piccolo"
+          }
+        ]
+      }
+    },
+    "music_disc_jack_bros": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_jack_bros"
+          }
+        ]
+      }
+    },
+    "music_disc_hobart": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_hobart"
+          }
+        ]
+      }
+    },
+    "music_disc_rhythm_masters": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_rhythm_masters"
+          }
+        ]
+      }
+    },
+    "music_disc_nico_nico": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_nico_nico"
+          }
+        ]
+      }
+    },
+    "music_disc_donkey_kong": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_donkey_kong"
+          }
+        ]
+      }
+    },
+    "music_disc_missingno": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_missingno"
+          }
+        ]
+      }
+    },
+    "music_disc_jazz_cats": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_jazz_cats"
+          }
+        ]
+      }
+    },
+    "music_disc_eminem": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_eminem"
+          }
+        ]
+      }
+    },
+    "music_disc_law_disorder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_law_disorder"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "music_disc_ajit_pai"
+    ],
+    [
+      "music_disc_geno"
+    ],
+    [
+      "music_disc_off_the_hook"
+    ],
+    [
+      "music_disc_weird_al"
+    ],
+    [
+      "music_disc_pitbull"
+    ],
+    [
+      "music_disc_nintendo_power"
+    ],
+    [
+      "music_disc_men_in_black"
+    ],
+    [
+      "music_disc_zun"
+    ],
+    [
+      "music_disc_thanos"
+    ],
+    [
+      "music_disc_wario_waluigi"
+    ],
+    [
+      "music_disc_dedede"
+    ],
+    [
+      "music_disc_snake"
+    ],
+    [
+      "music_disc_dj_professor_k"
+    ],
+    [
+      "music_disc_etika"
+    ],
+    [
+      "music_disc_hypercam"
+    ],
+    [
+      "music_disc_quote"
+    ],
+    [
+      "music_disc_adam_levine"
+    ],
+    [
+      "music_disc_johnny_bravo"
+    ],
+    [
+      "music_disc_krabs"
+    ],
+    [
+      "music_disc_mariya_takeuchi"
+    ],
+    [
+      "music_disc_robotnik"
+    ],
+    [
+      "music_disc_daft_punk"
+    ],
+    [
+      "music_disc_papyrus"
+    ],
+    [
+      "music_disc_jack_elmo"
+    ],
+    [
+      "music_disc_piccolo"
+    ],
+    [
+      "music_disc_jack_bros"
+    ],
+    [
+      "music_disc_hobart"
+    ],
+    [
+      "music_disc_rhythm_masters"
+    ],
+    [
+      "music_disc_nico_nico"
+    ],
+    [
+      "music_disc_donkey_kong"
+    ],
+    [
+      "music_disc_missingno"
+    ],
+    [
+      "music_disc_jazz_cats"
+    ],
+    [
+      "music_disc_eminem"
+    ],
+    [
+      "music_disc_law_disorder"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

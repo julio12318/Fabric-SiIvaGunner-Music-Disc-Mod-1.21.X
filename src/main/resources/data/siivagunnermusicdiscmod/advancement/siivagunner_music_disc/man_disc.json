@@ -1,0 +1,38 @@
+{
+  "parent": "siivagunnermusicdiscmod:siivagunner_music_disc/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:egg",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.siivagunner_music_disc.man_disc.title"
+    },
+    "description": {
+      "translate": "advancements.siivagunner_music_disc.man_disc.description"
+    },
+    "frame": "challenge",
+    "hidden": true
+  },
+  "criteria": {
+    "music_disc_man": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_man"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "music_disc_man"
+    ]
+  ],
+  "rewards": {
+    "experience": 3000
+  },
+  "sends_telemetry_event": true
+}

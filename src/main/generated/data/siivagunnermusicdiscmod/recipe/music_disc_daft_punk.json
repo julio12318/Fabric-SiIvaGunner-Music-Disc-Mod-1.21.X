@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "item": "minecraft:leather_helmet"
+    },
+    "C": {
+      "item": "minecraft:iron_helmet"
+    },
+    "D": {
+      "item": "minecraft:crossbow"
+    },
+    "E": {
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "pattern": [
+    "CBC",
+    "DAE"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_daft_punk"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_wario_waluigi.desc"
+  },
+  "length_in_seconds": 137.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_wario_waluigi"
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 11,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_masked_wolf.desc"
+  },
+  "length_in_seconds": 130.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_masked_wolf"
+}

@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_music_disc_gadget": {
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_gadget"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_music_disc_reader_jerome": {
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_reader_jerome"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "siivagunnermusicdiscmod:music_disc_ogg"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_music_disc_reader_jerome",
+      "has_music_disc_gadget"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "siivagunnermusicdiscmod:music_disc_ogg"
+    ]
+  }
+}

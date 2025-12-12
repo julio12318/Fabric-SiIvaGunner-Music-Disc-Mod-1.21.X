@@ -1,0 +1,8 @@
+{
+  "comparator_output": 5,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_adam_levine.desc"
+  },
+  "length_in_seconds": 232.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_adam_levine"
+}

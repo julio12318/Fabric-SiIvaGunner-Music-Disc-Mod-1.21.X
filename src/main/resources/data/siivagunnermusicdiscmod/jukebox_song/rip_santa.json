@@ -1,0 +1,8 @@
+{
+  "comparator_output": 12,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_santa.desc"
+  },
+  "length_in_seconds": 98.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_santa"
+}

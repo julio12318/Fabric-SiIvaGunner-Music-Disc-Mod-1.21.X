@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "item": "minecraft:stone"
+    },
+    "C": {
+      "item": "minecraft:flint"
+    }
+  },
+  "pattern": [
+    "BCC",
+    "BAC",
+    "BBC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_grand_dad"
+  }
+}

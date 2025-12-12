@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_law_disorder.desc"
+  },
+  "length_in_seconds": 368.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_law_disorder"
+}

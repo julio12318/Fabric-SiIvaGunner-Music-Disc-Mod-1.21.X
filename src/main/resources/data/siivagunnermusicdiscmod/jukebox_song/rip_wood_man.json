@@ -1,0 +1,8 @@
+{
+  "comparator_output": 2,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_wood_man.desc"
+  },
+  "length_in_seconds": 79.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_wood_man"
+}

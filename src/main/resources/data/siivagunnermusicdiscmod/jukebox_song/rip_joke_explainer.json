@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_joke_explainer.desc"
+  },
+  "length_in_seconds": 202.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_joke_explainer"
+}

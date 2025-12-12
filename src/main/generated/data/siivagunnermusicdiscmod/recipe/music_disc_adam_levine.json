@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "item": "minecraft:weeping_vines"
+    }
+  },
+  "pattern": [
+    "B B",
+    "BAB",
+    " B "
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_adam_levine"
+  }
+}

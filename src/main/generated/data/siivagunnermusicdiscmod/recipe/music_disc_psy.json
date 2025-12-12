@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "item": "minecraft:tinted_glass"
+    },
+    "C": {
+      "item": "minecraft:light_blue_concrete"
+    }
+  },
+  "pattern": [
+    "BAB",
+    "CCC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_psy"
+  }
+}

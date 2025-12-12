@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "siivagunnermusicdiscmod:music_disc_gadget"
+    },
+    "B": {
+      "item": "minecraft:leather_helmet"
+    },
+    "C": {
+      "item": "minecraft:crossbow"
+    }
+  },
+  "pattern": [
+    "B ",
+    "AC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_nostalgia_critic"
+  }
+}

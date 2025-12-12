@@ -1,0 +1,8 @@
+{
+  "comparator_output": 3,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_reader_jerome.desc"
+  },
+  "length_in_seconds": 59.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_reader_jerome"
+}

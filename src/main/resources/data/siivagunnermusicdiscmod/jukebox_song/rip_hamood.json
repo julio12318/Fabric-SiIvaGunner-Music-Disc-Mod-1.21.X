@@ -1,0 +1,8 @@
+{
+  "comparator_output": 4,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_hamood.desc"
+  },
+  "length_in_seconds": 33.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_hamood"
+}

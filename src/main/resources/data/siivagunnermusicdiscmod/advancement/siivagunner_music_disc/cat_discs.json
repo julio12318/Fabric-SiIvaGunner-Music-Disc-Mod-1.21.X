@@ -1,0 +1,60 @@
+{
+  "parent": "siivagunnermusicdiscmod:siivagunner_music_disc/root",
+  "display": {
+    "icon": {
+      "id": "siivagunnermusicdiscmod:music_disc_boykisser",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.siivagunner_music_disc.cat_discs.title"
+    },
+    "description": {
+      "translate": "advancements.siivagunner_music_disc.cat_discs.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "music_disc_jazz_cats": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_jazz_cats"
+          }
+        ]
+      }
+    },
+    "music_disc_boykisser": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_boykisser"
+          }
+        ]
+      }
+    },
+    "music_disc_brainless_kitty": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_brainless_kitty"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "music_disc_jazz_cats"
+    ],
+    [
+      "music_disc_boykisser"
+    ],
+    [
+      "music_disc_brainless_kitty"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

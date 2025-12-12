@@ -1,0 +1,8 @@
+{
+  "comparator_output": 8,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_mariya_takeuchi.desc"
+  },
+  "length_in_seconds": 325.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_mariya_takeuchi"
+}

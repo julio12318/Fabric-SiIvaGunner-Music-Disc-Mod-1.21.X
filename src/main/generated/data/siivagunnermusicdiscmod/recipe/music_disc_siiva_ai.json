@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "siivagunnermusicdiscmod:music_disc_siiva"
+    },
+    {
+      "item": "siivagunnermusicdiscmod:music_disc_grand_dad"
+    },
+    {
+      "item": "siivagunnermusicdiscmod:music_disc_gadget"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_siiva_ai"
+  }
+}

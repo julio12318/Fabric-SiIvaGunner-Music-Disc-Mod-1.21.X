@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_jazz_cats.desc"
+  },
+  "length_in_seconds": 207.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_jazz_cats"
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 10,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_nick_crompton.desc"
+  },
+  "length_in_seconds": 192.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_nick_crompton"
+}

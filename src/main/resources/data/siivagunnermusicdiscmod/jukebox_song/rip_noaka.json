@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_noaka.desc"
+  },
+  "length_in_seconds": 192.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_noaka"
+}

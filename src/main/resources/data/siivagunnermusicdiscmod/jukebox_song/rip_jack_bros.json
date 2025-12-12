@@ -1,0 +1,8 @@
+{
+  "comparator_output": 2,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_jack_bros.desc"
+  },
+  "length_in_seconds": 209.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_jack_bros"
+}

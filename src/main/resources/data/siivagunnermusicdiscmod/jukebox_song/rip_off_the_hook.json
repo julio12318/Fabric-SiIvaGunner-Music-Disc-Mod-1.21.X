@@ -1,0 +1,8 @@
+{
+  "comparator_output": 8,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_off_the_hook.desc"
+  },
+  "length_in_seconds": 296.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_off_the_hook"
+}

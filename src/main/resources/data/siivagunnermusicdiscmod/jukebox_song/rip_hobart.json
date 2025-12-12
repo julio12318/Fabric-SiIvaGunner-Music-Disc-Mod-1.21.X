@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_hobart.desc"
+  },
+  "length_in_seconds": 255.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_hobart"
+}

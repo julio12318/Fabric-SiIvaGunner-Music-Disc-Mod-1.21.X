@@ -1,0 +1,112 @@
+{
+  "parent": "siivagunnermusicdiscmod:siivagunner_music_disc/root",
+  "display": {
+    "icon": {
+      "id": "siivagunnermusicdiscmod:music_disc_grand_dad",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.siivagunner_music_disc.figment_discs.title"
+    },
+    "description": {
+      "translate": "advancements.siivagunner_music_disc.figment_discs.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "music_disc_grand_dad": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_grand_dad"
+          }
+        ]
+      }
+    },
+    "music_disc_tito_dick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_tito_dick"
+          }
+        ]
+      }
+    },
+    "music_disc_sens": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_sens"
+          }
+        ]
+      }
+    },
+    "music_disc_felix": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_felix"
+          }
+        ]
+      }
+    },
+    "music_disc_donkey_kong": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_donkey_kong"
+          }
+        ]
+      }
+    },
+    "music_disc_haruka": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_haruka"
+          }
+        ]
+      }
+    },
+    "music_disc_robbie_rotten": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_robbie_rotten"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "music_disc_grand_dad"
+    ],
+    [
+      "music_disc_tito_dick"
+    ],
+    [
+      "music_disc_sens"
+    ],
+    [
+      "music_disc_felix"
+    ],
+    [
+      "music_disc_donkey_kong"
+    ],
+    [
+      "music_disc_haruka"
+    ],
+    [
+      "music_disc_robbie_rotten"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

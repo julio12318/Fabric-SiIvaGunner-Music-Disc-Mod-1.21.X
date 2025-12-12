@@ -1,0 +1,8 @@
+{
+  "comparator_output": 3,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_chip.desc"
+  },
+  "length_in_seconds": 80.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_chip"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "item": "minecraft:purple_concrete"
+    },
+    "C": {
+      "item": "minecraft:yellow_concrete"
+    }
+  },
+  "pattern": [
+    "CBB",
+    "CAB",
+    "CCB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_wario_waluigi"
+  }
+}

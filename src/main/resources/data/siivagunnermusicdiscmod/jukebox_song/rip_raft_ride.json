@@ -1,0 +1,8 @@
+{
+  "comparator_output": 3,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_raft_ride.desc"
+  },
+  "length_in_seconds": 63.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_raft_ride"
+}

@@ -1,0 +1,356 @@
+{
+  "item.siivagunnermusicdiscmod.music_disc_siiva": "Music Disc (SiIvaGunner)",
+  "item.siivagunnermusicdiscmod.music_disc_siiva.desc": "Title Theme & Ending - 7 GRAND DAD",
+
+  "item.siivagunnermusicdiscmod.music_disc_grand_dad": "Music Disc (Grand Dad)",
+  "item.siivagunnermusicdiscmod.music_disc_grand_dad.desc": "Battle! (Wild Pokémon) - Pokémon Ruby & Sapphire",
+
+  "item.siivagunnermusicdiscmod.music_disc_nozomi": "Music Disc (Nozomi Tojo)",
+  "item.siivagunnermusicdiscmod.music_disc_nozomi.desc": "Snow halation - Love Live!",
+
+  "item.siivagunnermusicdiscmod.music_disc_tito_dick": "Music Disc (Tito Dick)",
+  "item.siivagunnermusicdiscmod.music_disc_tito_dick.desc": "CORE - Undertale",
+
+  "item.siivagunnermusicdiscmod.music_disc_loud_nigra": "Music Disc (Loud Nigra)",
+  "item.siivagunnermusicdiscmod.music_disc_loud_nigra.desc": "Treasure Chest Open - The Legend of Zelda: Skyward Sword",
+
+  "item.siivagunnermusicdiscmod.music_disc_chad_warden": "Music Disc (Chad Warden)",
+  "item.siivagunnermusicdiscmod.music_disc_chad_warden.desc": "MEGALOVANIA (PS4 Version) - Undertale",
+
+  "item.siivagunnermusicdiscmod.music_disc_voice": "Music Disc (The Voice Inside Your Head)",
+  "item.siivagunnermusicdiscmod.music_disc_voice.desc": "voiceless - The SiIvaGunner Christmas Comeback Crisis Original Soundtrack",
+
+  "item.siivagunnermusicdiscmod.music_disc_sens": "Music Disc (Sens)",
+  "item.siivagunnermusicdiscmod.music_disc_sens.desc": "Megalovania - EarthBound Halloween Hack",
+
+  "item.siivagunnermusicdiscmod.music_disc_felix": "Music Disc (Felix the Cat)",
+  "item.siivagunnermusicdiscmod.music_disc_felix.desc": "Puzzle Room (Rhythm Code) - Kirby Planet Robobot",
+
+  "item.siivagunnermusicdiscmod.music_disc_haruka": "Music Disc (Haruka Amami)",
+  "item.siivagunnermusicdiscmod.music_disc_haruka.desc": "GO MY WAY!! (M@STER Version) - THE iDOLM@STER",
+
+  "item.siivagunnermusicdiscmod.music_disc_robbie_rotten": "Music Disc (Robbie Rotten)",
+  "item.siivagunnermusicdiscmod.music_disc_robbie_rotten.desc": "We Are Number One - LazyTown: The Video Game",
+
+  "item.siivagunnermusicdiscmod.music_disc_wood_man": "Music Disc (Wood Man)",
+  "item.siivagunnermusicdiscmod.music_disc_wood_man.desc": "Wood Man Stage - Mega Man 2",
+
+  "item.siivagunnermusicdiscmod.music_disc_meta_knight": "Music Disc (Meta Knight)",
+  "item.siivagunnermusicdiscmod.music_disc_meta_knight.desc": "Inner Struggle - Kirby Planet Robobot",
+
+  "item.siivagunnermusicdiscmod.music_disc_santa": "Music Disc (Santa Claus)",
+  "item.siivagunnermusicdiscmod.music_disc_santa.desc": "To Zanarkand - Final Fantasy X",
+
+  "item.siivagunnermusicdiscmod.music_disc_joke_explainer": "Music Disc (The Joke-Explainer™ 7000)",
+  "item.siivagunnermusicdiscmod.music_disc_joke_explainer.desc": "Magolor's Shoppe - Team Kirby Clash Deluxe",
+
+  "item.siivagunnermusicdiscmod.music_disc_andonuts": "Music Disc (Dr. Andonuts)",
+  "item.siivagunnermusicdiscmod.music_disc_andonuts.desc": "Donut Holes - Cognitive Dissonance: A CCC Side Story",
+
+  "item.siivagunnermusicdiscmod.music_disc_stingy": "Music Disc (Stingy)",
+  "item.siivagunnermusicdiscmod.music_disc_stingy.desc": "Want You Gone (Beta Mix) - Portal 2",
+
+  "item.siivagunnermusicdiscmod.music_disc_bean": "Music Disc (Green de la Bean)",
+  "item.siivagunnermusicdiscmod.music_disc_bean.desc": "Wave of The Beanbot - The SiIvaGunner Christmas Comeback Crisis Original Soundtrack",
+
+  "item.siivagunnermusicdiscmod.music_disc_siiva_ai": "Music Disc (SiIva A.I.)",
+  "item.siivagunnermusicdiscmod.music_disc_siiva_ai.desc": "Goodbye to a World Fusion Collab",
+
+  "item.siivagunnermusicdiscmod.music_disc_haltmann": "Music Disc (President Haltmann)",
+  "item.siivagunnermusicdiscmod.music_disc_haltmann.desc": "The Noble Haltmann: Final Recital - Kirby Planet Robobot",
+
+  "item.siivagunnermusicdiscmod.music_disc_susie": "Music Disc (Susie Haltmann)",
+  "item.siivagunnermusicdiscmod.music_disc_susie.desc": "re-qm (susie's piano recital)",
+
+  "item.siivagunnermusicdiscmod.music_disc_kazoo_master": "Music Disc (Kazoo Master)",
+  "item.siivagunnermusicdiscmod.music_disc_kazoo_master.desc": "The Greatest Warrior In the Galaxy Ever - Kirby Planet Robobot",
+
+  "item.siivagunnermusicdiscmod.music_disc_snoop_dogg": "Music Disc (Snoop Dogg)",
+  "item.siivagunnermusicdiscmod.music_disc_snoop_dogg.desc": "Main Theme - Five Nights at Freddy's",
+
+  "item.siivagunnermusicdiscmod.music_disc_soulja_boy": "Music Disc (Soulja Boy)",
+  "item.siivagunnermusicdiscmod.music_disc_soulja_boy.desc": "Dr. Mario - Super Smash Bros. Melee",
+
+  "item.siivagunnermusicdiscmod.music_disc_chip": "Music Disc (Chip Tha Ripper)",
+  "item.siivagunnermusicdiscmod.music_disc_chip.desc": "Strong One (Masked Man) (Fan Translation) - MOTHER 3",
+
+  "item.siivagunnermusicdiscmod.music_disc_charles_barkley": "Music Disc (Charles Barkley)",
+  "item.siivagunnermusicdiscmod.music_disc_charles_barkley.desc": "Boss Battle - Barkley, Shut Up and Jam: Gaiden",
+
+  "item.siivagunnermusicdiscmod.music_disc_parappa": "Music Disc (PaRappa)",
+  "item.siivagunnermusicdiscmod.music_disc_parappa.desc": "Chop Chop Master Onion's RAP (Gamma Mix) - PaRappa the Rapper",
+
+  "item.siivagunnermusicdiscmod.music_disc_hh": "Music Disc (HH)",
+  "item.siivagunnermusicdiscmod.music_disc_hh.desc": "Bad Apple!! (Promotional Version) - Touhou 4: Lotus Land Story",
+
+  "item.siivagunnermusicdiscmod.music_disc_nick_crompton": "Music Disc (Nick Crompton",
+  "item.siivagunnermusicdiscmod.music_disc_nick_crompton.desc": "Circus (Remix) - Five Nights at Freddy's",
+
+  "item.siivagunnermusicdiscmod.music_disc_monika": "Music Disc (Monika)",
+  "item.siivagunnermusicdiscmod.music_disc_monika.desc": "Your Reality (Credits) - Doki Doki Literature Club!",
+
+  "item.siivagunnermusicdiscmod.music_disc_misha": "Music Disc (Misha)",
+  "item.siivagunnermusicdiscmod.music_disc_misha.desc": "Trainers' School - Pokémon Ruby & Sapphire",
+
+  "item.siivagunnermusicdiscmod.music_disc_psy": "Music Disc (PSY)",
+  "item.siivagunnermusicdiscmod.music_disc_psy.desc": "AIN'T NOTHIN' LIKE A FUNKY BEAT - Lethal League Blaze",
+
+  "item.siivagunnermusicdiscmod.music_disc_homer": "Music Disc (Homer Simpson)",
+  "item.siivagunnermusicdiscmod.music_disc_homer.desc": "City of Color (CD version) - Splatoon",
+
+  "item.siivagunnermusicdiscmod.music_disc_peter": "Music Disc (Peter Griffin)",
+  "item.siivagunnermusicdiscmod.music_disc_peter.desc": "DK Rap (NA Version) - Donkey Kong 64",
+
+  "item.siivagunnermusicdiscmod.music_disc_2b": "Music Disc (2B)",
+  "item.siivagunnermusicdiscmod.music_disc_2b.desc": "The Weight of the World (Credits Mix) - NieR: Automata",
+
+  "item.siivagunnermusicdiscmod.music_disc_rental": "Music Disc (Mr Rental)",
+  "item.siivagunnermusicdiscmod.music_disc_rental.desc": "Main Theme - Looney Tunes",
+
+  "item.siivagunnermusicdiscmod.music_disc_reader_jerome": "Music Disc (Reader & Jerome)",
+  "item.siivagunnermusicdiscmod.music_disc_reader_jerome.desc": "Bonus Room Blitz (PAL Version) - Donkey Kong Country",
+
+  "item.siivagunnermusicdiscmod.music_disc_ogg": "Music Disc (Ogg)",
+  "item.siivagunnermusicdiscmod.music_disc_ogg.desc": "hurt.ogg - Minecraft Education",
+
+  "item.siivagunnermusicdiscmod.music_disc_gadget": "Music Disc (Inspector Gadget)",
+  "item.siivagunnermusicdiscmod.music_disc_gadget.desc": "Become as Gods (Birth of a Wish) - NieR: Automata",
+
+  "item.siivagunnermusicdiscmod.music_disc_nostalgia_critic": "Music Disc (Nostalgia Critic)",
+  "item.siivagunnermusicdiscmod.music_disc_nostalgia_critic.desc": "Snow halation (NOZOMI Mix) - Love Live! School idol festival",
+
+  "item.siivagunnermusicdiscmod.music_disc_takane": "Music Disc (Takane Shijou)",
+  "item.siivagunnermusicdiscmod.music_disc_takane.desc": "Boss Tower - Kirby: Nightmare in Dream Land",
+
+  "item.siivagunnermusicdiscmod.music_disc_8bit_beast": "Music Disc (8-Bit Beast)",
+  "item.siivagunnermusicdiscmod.music_disc_8bit_beast.desc": "8-Bit Beast's Haunted House Fusion Collab",
+
+  "item.siivagunnermusicdiscmod.music_disc_lady": "Music Disc (Lady)",
+  "item.siivagunnermusicdiscmod.music_disc_lady.desc": "Gusty Garden Galaxy - Super Mario Galaxy",
+
+  "item.siivagunnermusicdiscmod.music_disc_proto": "Music Disc (Proto)",
+  "item.siivagunnermusicdiscmod.music_disc_proto.desc": "The Monkeys' Maze (OST Version) - EarthBound",
+
+  "item.siivagunnermusicdiscmod.music_disc_ajit_pai": "Music Disc (Ajit Pai)",
+  "item.siivagunnermusicdiscmod.music_disc_ajit_pai.desc": "Harlem Shake - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_geno": "Music Disc (Geno)",
+  "item.siivagunnermusicdiscmod.music_disc_geno.desc": "A Swing in the Forest - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_off_the_hook": "Music Disc (Off the Hook ft. Harmony)",
+  "item.siivagunnermusicdiscmod.music_disc_off_the_hook.desc": "Ebb n' Flow Inkantation Reloaded - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_weird_al": "Music Disc (\"Weird Al\" Yankovic)",
+  "item.siivagunnermusicdiscmod.music_disc_weird_al.desc": "Hardware Store and More! - SiIvaGunner: King for a Day Tournament",
+
+  "item.siivagunnermusicdiscmod.music_disc_pitbull": "Music Disc (Pitbull and the Aliens)",
+  "item.siivagunnermusicdiscmod.music_disc_pitbull.desc": "Minecraft con Gadget ft. Pitbull - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_nintendo_power": "Music Disc (Nintendo Power)",
+  "item.siivagunnermusicdiscmod.music_disc_nintendo_power.desc": "K.K. Disco - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_men_in_black": "Music Disc (Men in Black)",
+  "item.siivagunnermusicdiscmod.music_disc_men_in_black.desc": "The Men in Black - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_zun": "Music Disc (ZUN)",
+  "item.siivagunnermusicdiscmod.music_disc_zun.desc": "ZUN's Theme - SiIvaGunner: King for a Day Tournament",
+
+  "item.siivagunnermusicdiscmod.music_disc_thanos": "Music Disc (Thanos)",
+  "item.siivagunnermusicdiscmod.music_disc_thanos.desc": "Five Million Fireflies - SiIvaGunner: King for a Day Tournament",
+
+  "item.siivagunnermusicdiscmod.music_disc_wario_waluigi": "Music Disc (Waluigi & Waluigi)",
+  "item.siivagunnermusicdiscmod.music_disc_wario_waluigi.desc": "Body Rock (US) - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_dedede": "Music Disc (King Dedede)",
+  "item.siivagunnermusicdiscmod.music_disc_dedede.desc": "A Weird Race - SiIvaGunner: King for a Day Tournament",
+
+  "item.siivagunnermusicdiscmod.music_disc_snake": "Music Disc (Solid Snake)",
+  "item.siivagunnermusicdiscmod.music_disc_snake.desc": "Snake Eater - SiIvaGunner: King for a Day Tournament",
+
+  "item.siivagunnermusicdiscmod.music_disc_dj_professor_k": "Music Disc (DJ Professor K)",
+  "item.siivagunnermusicdiscmod.music_disc_dj_professor_k.desc": "Artificial Amateurs - SiIvaGunner: King for a Day Tournament",
+
+  "item.siivagunnermusicdiscmod.music_disc_etika": "Music Disc (Etika)",
+  "item.siivagunnermusicdiscmod.music_disc_etika.desc": "Lifelight - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_hypercam": "Music Disc (Unregistered HyperCam 2)",
+  "item.siivagunnermusicdiscmod.music_disc_hypercam.desc": "How 2 Do Anything - SiIvaGunner: King for a Day Tournament",
+
+  "item.siivagunnermusicdiscmod.music_disc_quote": "Music Disc (Quote)",
+  "item.siivagunnermusicdiscmod.music_disc_quote.desc": "CAVE STORY - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_adam_levine": "Music Disc (Adam Levine)",
+  "item.siivagunnermusicdiscmod.music_disc_adam_levine.desc": "This Love - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_johnny_bravo": "Music Disc (Johnny Bravo)",
+  "item.siivagunnermusicdiscmod.music_disc_johnny_bravo.desc": "Hey Johnny Bravo - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_krabs": "Music Disc (Mr. Krabs)",
+  "item.siivagunnermusicdiscmod.music_disc_krabs.desc": "Mr. Krabs Rave - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_mariya_takeuchi": "Music Disc (Mariya Takeuchi)",
+  "item.siivagunnermusicdiscmod.music_disc_mariya_takeuchi.desc": "Love Through Time and Space - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_robotnik": "Music Disc (Dr. Robotnik)",
+  "item.siivagunnermusicdiscmod.music_disc_robotnik.desc": "I Win! I Win! I Win! - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_daft_punk": "Music Disc (Daft Punk ft. Pharrell)",
+  "item.siivagunnermusicdiscmod.music_disc_daft_punk.desc": "Despicable Punk - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_papyrus": "Music Disc (Papyrus)",
+  "item.siivagunnermusicdiscmod.music_disc_papyrus.desc": "Bonetrousle - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_jack_elmo": "Music Disc (Jack & Elmo)",
+  "item.siivagunnermusicdiscmod.music_disc_jack_elmo.desc": "Gravibus Octanguli - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_piccolo": "Music Disc (Dr. Piccolo)",
+  "item.siivagunnermusicdiscmod.music_disc_piccolo.desc": "Green and Purple - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_jack_bros": "Music Disc (Jack Bros.)",
+  "item.siivagunnermusicdiscmod.music_disc_jack_bros.desc": "Battle (Shin Megami Tensei) - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_hobart": "Music Disc (HOBaRT)",
+  "item.siivagunnermusicdiscmod.music_disc_hobart.desc": "Theme of HOBaRT - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_rhythm_masters": "Music Disc (Rhythm Masters)",
+  "item.siivagunnermusicdiscmod.music_disc_rhythm_masters.desc": "リミックス四　～侍の道～ - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_nico_nico": "Music Disc (Nico Nico)",
+  "item.siivagunnermusicdiscmod.music_disc_nico_nico.desc": "Fukkireta - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_donkey_kong": "Music Disc (Donkey Kong)",
+  "item.siivagunnermusicdiscmod.music_disc_donkey_kong.desc": "StickerBush - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_missingno": "Music Disc (MissingNo.)",
+  "item.siivagunnermusicdiscmod.music_disc_missingno.desc": "OutOfMemory (MissingNo.'s Elegy) - SiIvaGunner: Sea of Secrets OST",
+
+  "item.siivagunnermusicdiscmod.music_disc_jazz_cats": "Music Disc (The Jazz Cats)",
+  "item.siivagunnermusicdiscmod.music_disc_jazz_cats.desc": "Unfinished Business - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_eminem": "Music Disc (Eminem)",
+  "item.siivagunnermusicdiscmod.music_disc_eminem.desc": "My Salsa - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_law_disorder": "Music Disc (Law & Disorder)",
+  "item.siivagunnermusicdiscmod.music_disc_law_disorder.desc": "Mr. Monokuma's Swing Lesson - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_john_notwoodman": "Music Disc (John Notwoodman)",
+  "item.siivagunnermusicdiscmod.music_disc_john_notwoodman.desc": "Vote Responsibly!! - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_mr_bean": "Music Disc (Mr. Bean)",
+  "item.siivagunnermusicdiscmod.music_disc_mr_bean.desc": "Bean Bean Beach - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_cool_meme_team": "Music Disc (Cool Meme Team)",
+  "item.siivagunnermusicdiscmod.music_disc_cool_meme_team.desc": "Ooh Nah Nah - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_boykisser": "Music Disc (Boykisser)",
+  "item.siivagunnermusicdiscmod.music_disc_boykisser.desc": "Main Theme - Escape From The Boykisser",
+
+  "item.siivagunnermusicdiscmod.music_disc_pomni": "Music Disc (Pomni)",
+  "item.siivagunnermusicdiscmod.music_disc_pomni.desc": "Main Theme - The Amazing Digital Circus",
+
+  "item.siivagunnermusicdiscmod.music_disc_gedagedi": "Music Disc (Gedagedigedagedago)",
+  "item.siivagunnermusicdiscmod.music_disc_gedagedi.desc": "One-Winged Angel - Kingdom Hearts",
+
+  "item.siivagunnermusicdiscmod.music_disc_numberphile": "Music Disc (The Numberphile)",
+  "item.siivagunnermusicdiscmod.music_disc_numberphile.desc": "Golden Ratio - e",
+
+  "item.siivagunnermusicdiscmod.music_disc_charlie": "Music Disc (Charlie, the Steak)",
+  "item.siivagunnermusicdiscmod.music_disc_charlie.desc": "Womb (VIP) - SAEKO: Giantess Dating Sim",
+
+  "item.siivagunnermusicdiscmod.music_disc_brainless_kitty": "Music Disc (Brainless Kitty)",
+  "item.siivagunnermusicdiscmod.music_disc_brainless_kitty.desc": "Silly Billy - Hit Single",
+
+  "item.siivagunnermusicdiscmod.music_disc_silento": "Music Disc (Silentó)",
+  "item.siivagunnermusicdiscmod.music_disc_silento.desc": "Memory 2 - Undertale 2",
+
+  "item.siivagunnermusicdiscmod.music_disc_hcb": "Music Disc (HCB.exe)",
+  "item.siivagunnermusicdiscmod.music_disc_hcb.desc": "[NAME REDACTED] [UNREDACTED EDITION] - Super Smash Bros. UItimate",
+
+  "item.siivagunnermusicdiscmod.music_disc_girelle": "Music Disc (Girelle)",
+  "item.siivagunnermusicdiscmod.music_disc_girelle.desc": "Field of Hopes and Dreams (PAL Version) - Deltarune",
+
+  "item.siivagunnermusicdiscmod.music_disc_gaijin_goomba": "Music Disc (Gaijin Goomba)",
+  "item.siivagunnermusicdiscmod.music_disc_gaijin_goomba.desc": "Megasparkle Goomba - Paper Mario: Sticker Star",
+
+  "item.siivagunnermusicdiscmod.music_disc_freddy_fazbear": "Music Disc (Freddy Fazbear)",
+  "item.siivagunnermusicdiscmod.music_disc_freddy_fazbear.desc": "Circus (Sigma Rizz Mode Final Arc Ultra Edition) - Five Nights at Freddy's",
+
+  "item.siivagunnermusicdiscmod.music_disc_boyfriend": "Music Disc (Boyfriend)",
+  "item.siivagunnermusicdiscmod.music_disc_boyfriend.desc": "Ugh - Friday Night Funkin'",
+
+  "item.siivagunnermusicdiscmod.music_disc_baroes": "Music Disc (Os Barões da Pisadinha)",
+  "item.siivagunnermusicdiscmod.music_disc_baroes.desc": "Lá Embaixo - Toca Pisadinha",
+
+  "item.siivagunnermusicdiscmod.music_disc_raft_ride": "Music Disc (Raft Ride)",
+  "item.siivagunnermusicdiscmod.music_disc_raft_ride.desc": "Raft Ride - The Legend of Zelda: Link's Awakening",
+
+  "item.siivagunnermusicdiscmod.music_disc_hamood": "Music Disc (Hamood Habibi)",
+  "item.siivagunnermusicdiscmod.music_disc_hamood.desc": "Gangnam Style - Just Dance 2015",
+
+  "item.siivagunnermusicdiscmod.music_disc_totinos": "Music Disc (Totino's)",
+  "item.siivagunnermusicdiscmod.music_disc_totinos.desc": "Lights, Camera, Action! - Studiopolis Zone Act 1 - Sonic Mania",
+
+  "item.siivagunnermusicdiscmod.music_disc_sean_kingston": "Music Disc (Sean Kingston)",
+  "item.siivagunnermusicdiscmod.music_disc_sean_kingston.desc": "The Silver Zephyr (US Version) - Wario: Master of Disguise",
+
+  "item.siivagunnermusicdiscmod.music_disc_smooth": "Music Disc (Smooth)",
+  "item.siivagunnermusicdiscmod.music_disc_smooth.desc": "Steady Now - WarioWare: Smooth Moves",
+
+  "item.siivagunnermusicdiscmod.music_disc_bob_dylan": "Music Disc (Bob Dylan)",
+  "item.siivagunnermusicdiscmod.music_disc_bob_dylan.desc": "Ashley's Song (Folk Version) - WarioWare: Touched!",
+
+  "item.siivagunnermusicdiscmod.music_disc_masked_wolf": "Music Disc (Masked Wolf)",
+  "item.siivagunnermusicdiscmod.music_disc_masked_wolf.desc": "Beware the Forest's Mushrooms (Unused) - Super Smash Bros. Brawl",
+
+  "item.siivagunnermusicdiscmod.music_disc_ksi": "Music Disc (KSI)",
+  "item.siivagunnermusicdiscmod.music_disc_ksi.desc": "vs. YINU (EDM Version) (Beta Mix) - No Straight Roads",
+
+  "item.siivagunnermusicdiscmod.music_disc_burnice": "Music Disc (Burnice)",
+  "item.siivagunnermusicdiscmod.music_disc_burnice.desc": "Burning Desires (KOR Version) - Zenless Zone Zero",
+
+  "item.siivagunnermusicdiscmod.music_disc_omoriboy": "Music Disc (Omoriboy)",
+  "item.siivagunnermusicdiscmod.music_disc_omoriboy.desc": "Paralyzer - Rock Band 4",
+
+  "item.siivagunnermusicdiscmod.music_disc_super_idol": "Music Disc (Super Idol)",
+  "item.siivagunnermusicdiscmod.music_disc_super_idol.desc": "Title Theme - SUPER iDOLM@STER",
+
+  "item.siivagunnermusicdiscmod.music_disc_max_verstappen": "Music Disc (Max Verstappen)",
+  "item.siivagunnermusicdiscmod.music_disc_max_verstappen.desc": "Black Knife - Deltarune",
+
+  "item.siivagunnermusicdiscmod.music_disc_noaka": "Music Disc (Noaka)",
+  "item.siivagunnermusicdiscmod.music_disc_noaka.desc": "Theme of Noaka",
+
+  "item.siivagunnermusicdiscmod.music_disc_400": "Music Disc",
+  "item.siivagunnermusicdiscmod.music_disc_400.desc": "C418 - 400",
+
+  "item.siivagunnermusicdiscmod.music_disc_man": "Music Disc (???)",
+  "item.siivagunnermusicdiscmod.music_disc_man.desc": "Title - Egg",
+
+
+  "item.siivagunnermusicdiscmod.missingno_fragment": "MissingNo. Fragment",
+  "item.siivagunnermusicdiscmod.bat_wing": "Bat Wing",
+
+
+  "itemgroup.siivagunnermusicdiscmod.siiva_music_discs": "SiIvaGunner Music Discs",
+
+  "advancements.siivagunner_music_disc.root.description": "Only the Highest Quality Music Discs.",
+  "advancements.siivagunner_music_disc.root.title": "SiIvaGunner Music Discs",
+
+  "advancements.siivagunner_music_disc.figment_discs.description": "Obtain all Captured Figment Music Discs",
+  "advancements.siivagunner_music_disc.figment_discs.title": "Meanwhile, at The Voice's Tower...",
+
+  "advancements.siivagunner_music_disc.kfad_discs.description": "Obtain all King for a/Another Day Contestant Music Discs.",
+  "advancements.siivagunner_music_disc.kfad_discs.title": "Who Will Be The King?",
+
+  "advancements.siivagunner_music_disc.cat_discs.description": "Obtain Special Gifts From Your Feline Friends.",
+  "advancements.siivagunner_music_disc.cat_discs.title": "Meow :3",
+
+  "advancements.siivagunner_music_disc.lightning_discs.description": "Obtain the PaRappa and Law & Disorder Music Discs through Electrifying Means.",
+  "advancements.siivagunner_music_disc.lightning_discs.title": "A Shocking Encounter!",
+
+  "advancements.siivagunner_music_disc.all_discs.title": "A Grand Adventure",
+  "advancements.siivagunner_music_disc.all_discs.description": "Obtain All Music Discs.",
+
+  "advancements.siivagunner_music_disc.man_disc.description": "Obtain the Secret Disc.",
+  "advancements.siivagunner_music_disc.man_disc.title": "* (You Received a Disc.)"
+}

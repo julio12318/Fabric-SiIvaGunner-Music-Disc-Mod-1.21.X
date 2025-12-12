@@ -1,0 +1,8 @@
+{
+  "comparator_output": 4,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_papyrus.desc"
+  },
+  "length_in_seconds": 200.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_papyrus"
+}

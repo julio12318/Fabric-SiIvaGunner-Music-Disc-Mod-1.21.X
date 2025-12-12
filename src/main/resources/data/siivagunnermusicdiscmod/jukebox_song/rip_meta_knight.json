@@ -1,0 +1,8 @@
+{
+  "comparator_output": 8,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_meta_knight.desc"
+  },
+  "length_in_seconds": 86.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_meta_knight"
+}

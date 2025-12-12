@@ -1,0 +1,136 @@
+package net.julio12318.siivagunnermusicdiscmod.item;
+
+import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
+import net.julio12318.siivagunnermusicdiscmod.SiIvaGunnerMusicDiscMod;
+import net.minecraft.item.ItemGroup;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Items;
+import net.minecraft.registry.Registries;
+import net.minecraft.registry.Registry;
+import net.minecraft.text.Text;
+import net.minecraft.util.Identifier;
+
+public class ModItemGroups {
+
+    public static final ItemGroup SIIVA_MUSIC_DISCS_GROUP = Registry.register(Registries.ITEM_GROUP,
+            Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "siiva_music_discs"),
+            FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.MUSIC_DISC_SIIVA))
+                    .displayName(Text.translatable("itemgroup.siivagunnermusicdiscmod.siiva_music_discs"))
+                    .entries((displayContext, entries) -> {
+                        entries.add(ModItems.MUSIC_DISC_SIIVA);
+                        entries.add(ModItems.MUSIC_DISC_GRAND_DAD);
+                        entries.add(ModItems.MUSIC_DISC_NOZOMI);
+                        entries.add(ModItems.MUSIC_DISC_TITO_DICK);
+                        entries.add(ModItems.MUSIC_DISC_LOUD_NIGRA);
+                        entries.add(ModItems.MUSIC_DISC_CHAD_WARDEN);
+                        entries.add(ModItems.MUSIC_DISC_VOICE);
+                        entries.add(ModItems.MUSIC_DISC_SENS);
+                        entries.add(ModItems.MUSIC_DISC_FELIX);
+                        entries.add(ModItems.MUSIC_DISC_HARUKA);
+                        entries.add(ModItems.MUSIC_DISC_ROBBIE_ROTTEN);
+                        entries.add(ModItems.MUSIC_DISC_WOOD_MAN);
+                        entries.add(ModItems.MUSIC_DISC_META_KNIGHT);
+                        entries.add(ModItems.MUSIC_DISC_SANTA);
+                        entries.add(ModItems.MUSIC_DISC_JOKE_EXPLAINER);
+                        entries.add(ModItems.MUSIC_DISC_ANDONUTS);
+                        entries.add(ModItems.MUSIC_DISC_STINGY);
+                        entries.add(ModItems.MUSIC_DISC_BEAN);
+                        entries.add(ModItems.MUSIC_DISC_SIIVA_AI);
+                        entries.add(ModItems.MUSIC_DISC_HALTMANN);
+                        entries.add(ModItems.MUSIC_DISC_SUSIE);
+                        entries.add(ModItems.MUSIC_DISC_KAZOO_MASTER);
+                        entries.add(ModItems.MUSIC_DISC_SNOOP_DOGG);
+                        entries.add(ModItems.MUSIC_DISC_SOULJA_BOY);
+                        entries.add(ModItems.MUSIC_DISC_CHIP);
+                        entries.add(ModItems.MUSIC_DISC_CHARLES_BARKLEY);
+                        entries.add(ModItems.MUSIC_DISC_PARAPPA);
+                        entries.add(ModItems.MUSIC_DISC_HH);
+                        entries.add(ModItems.MUSIC_DISC_NICK_CROMPTON);
+                        entries.add(ModItems.MUSIC_DISC_MONIKA);
+                        entries.add(ModItems.MUSIC_DISC_MISHA);
+                        entries.add(ModItems.MUSIC_DISC_PSY);
+                        entries.add(ModItems.MUSIC_DISC_HOMER);
+                        entries.add(ModItems.MUSIC_DISC_PETER);
+                        entries.add(ModItems.MUSIC_DISC_2B);
+                        entries.add(ModItems.MUSIC_DISC_RENTAL);
+                        entries.add(ModItems.MUSIC_DISC_READER_JEROME);
+                        entries.add(ModItems.MUSIC_DISC_OGG);
+                        entries.add(ModItems.MUSIC_DISC_GADGET);
+                        entries.add(ModItems.MUSIC_DISC_NOSTALGIA_CRITIC);
+                        entries.add(ModItems.MUSIC_DISC_TAKANE);
+                        entries.add(ModItems.MUSIC_DISC_8BIT_BEAST);
+                        entries.add(ModItems.MUSIC_DISC_LADY);
+                        entries.add(ModItems.MUSIC_DISC_PROTO);
+                        entries.add(ModItems.MUSIC_DISC_AJIT_PAI);
+                        entries.add(ModItems.MUSIC_DISC_GENO);
+                        entries.add(ModItems.MUSIC_DISC_OFF_THE_HOOK);
+                        entries.add(ModItems.MUSIC_DISC_WEIRD_AL);
+                        entries.add(ModItems.MUSIC_DISC_PITBULL);
+                        entries.add(ModItems.MUSIC_DISC_NINTENDO_POWER);
+                        entries.add(ModItems.MUSIC_DISC_MEN_IN_BLACK);
+                        entries.add(ModItems.MUSIC_DISC_ZUN);
+                        entries.add(ModItems.MUSIC_DISC_THANOS);
+                        entries.add(ModItems.MUSIC_DISC_WARIO_WALUIGI);
+                        entries.add(ModItems.MUSIC_DISC_DEDEDE);
+                        entries.add(ModItems.MUSIC_DISC_SNAKE);
+                        entries.add(ModItems.MUSIC_DISC_DJ_PROFESSOR_K);
+                        entries.add(ModItems.MUSIC_DISC_ETIKA);
+                        entries.add(ModItems.MUSIC_DISC_HYPERCAM);
+                        entries.add(ModItems.MUSIC_DISC_QUOTE);
+                        entries.add(ModItems.MUSIC_DISC_ADAM_LEVINE);
+                        entries.add(ModItems.MUSIC_DISC_JOHNNY_BRAVO);
+                        entries.add(ModItems.MUSIC_DISC_KRABS);
+                        entries.add(ModItems.MUSIC_DISC_MARIYA_TAKEUCHI);
+                        entries.add(ModItems.MUSIC_DISC_ROBOTNIK);
+                        entries.add(ModItems.MUSIC_DISC_DAFT_PUNK);
+                        entries.add(ModItems.MUSIC_DISC_PAPYRUS);
+                        entries.add(ModItems.MUSIC_DISC_JACK_ELMO);
+                        entries.add(ModItems.MUSIC_DISC_PICCOLO);
+                        entries.add(ModItems.MUSIC_DISC_JACK_BROS);
+                        entries.add(ModItems.MUSIC_DISC_HOBART);
+                        entries.add(ModItems.MUSIC_DISC_RHYTHM_MASTERS);
+                        entries.add(ModItems.MUSIC_DISC_NICO_NICO);
+                        entries.add(ModItems.MUSIC_DISC_DONKEY_KONG);
+                        entries.add(ModItems.MUSIC_DISC_MISSINGNO);
+                        entries.add(ModItems.MUSIC_DISC_JAZZ_CATS);
+                        entries.add(ModItems.MUSIC_DISC_EMINEM);
+                        entries.add(ModItems.MUSIC_DISC_LAW_DISORDER);
+                        entries.add(ModItems.MUSIC_DISC_JOHN_NOTWOODMAN);
+                        entries.add(ModItems.MUSIC_DISC_MR_BEAN);
+                        entries.add(ModItems.MUSIC_DISC_COOL_MEME_TEAM);
+                        entries.add(ModItems.MUSIC_DISC_BOYKISSER);
+                        entries.add(ModItems.MUSIC_DISC_POMNI);
+                        entries.add(ModItems.MUSIC_DISC_GEDAGEDI);
+                        entries.add(ModItems.MUSIC_DISC_NUMBERPHILE);
+                        entries.add(ModItems.MUSIC_DISC_CHARLIE);
+                        entries.add(ModItems.MUSIC_DISC_BRAINLESS_KITTY);
+                        entries.add(ModItems.MUSIC_DISC_SILENTO);
+                        entries.add(ModItems.MUSIC_DISC_HCB);
+                        entries.add(ModItems.MUSIC_DISC_GIRELLE);
+                        entries.add(ModItems.MUSIC_DISC_GAIJIN_GOOMBA);
+                        entries.add(ModItems.MUSIC_DISC_FREDDY_FAZBEAR);
+                        entries.add(ModItems.MUSIC_DISC_BOYFRIEND);
+                        entries.add(ModItems.MUSIC_DISC_BAROES);
+                        entries.add(ModItems.MUSIC_DISC_RAFT_RIDE);
+                        entries.add(ModItems.MUSIC_DISC_HAMOOD);
+                        entries.add(ModItems.MUSIC_DISC_TOTINOS);
+                        entries.add(ModItems.MUSIC_DISC_SEAN_KINGSTON);
+                        entries.add(ModItems.MUSIC_DISC_SMOOTH);
+                        entries.add(ModItems.MUSIC_DISC_BOB_DYLAN);
+                        entries.add(ModItems.MUSIC_DISC_MASKED_WOLF);
+                        entries.add(ModItems.MUSIC_DISC_KSI);
+                        entries.add(ModItems.MUSIC_DISC_BURNICE);
+                        entries.add(ModItems.MUSIC_DISC_OMORIBOY);
+                        entries.add(ModItems.MUSIC_DISC_SUPER_IDOL);
+                        entries.add(ModItems.MUSIC_DISC_MAX_VERSTAPPEN);
+                        entries.add(ModItems.MUSIC_DISC_NOAKA);
+                        entries.add(ModItems.MUSIC_DISC_400);
+                        entries.add(ModItems.MISSINGNO_FRAGMENT);
+                        entries.add(ModItems.BAT_WING);
+                    })
+                    .build());
+
+    public static void registerItemGroups() {
+        SiIvaGunnerMusicDiscMod.LOGGER.info("Registering Item Groups for " + SiIvaGunnerMusicDiscMod.MOD_ID);
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 6,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_soulja_boy.desc"
+  },
+  "length_in_seconds": 85.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_soulja_boy"
+}

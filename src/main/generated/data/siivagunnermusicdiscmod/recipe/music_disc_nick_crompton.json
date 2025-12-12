@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "item": "minecraft:blue_wool"
+    },
+    "C": {
+      "item": "minecraft:white_wool"
+    },
+    "D": {
+      "item": "minecraft:red_wool"
+    }
+  },
+  "pattern": [
+    "BCB",
+    "DAD",
+    "BCB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_nick_crompton"
+  }
+}

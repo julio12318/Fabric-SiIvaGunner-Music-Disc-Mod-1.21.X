@@ -1,0 +1,47 @@
+{
+  "parent": "siivagunnermusicdiscmod:siivagunner_music_disc/root",
+  "display": {
+    "icon": {
+      "id": "siivagunnermusicdiscmod:music_disc_parappa",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.siivagunner_music_disc.lightning_discs.title"
+    },
+    "description": {
+      "translate": "advancements.siivagunner_music_disc.lightning_discs.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "music_disc_parappa": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_parappa"
+          }
+        ]
+      }
+    },
+    "music_disc_law_disorder": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "siivagunnermusicdiscmod:music_disc_law_disorder"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "music_disc_parappa"
+    ],
+    [
+      "music_disc_law_disorder"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "item": "minecraft:apple"
+    },
+    "C": {
+      "item": "minecraft:carrot"
+    },
+    "D": {
+      "item": "minecraft:potato"
+    },
+    "E": {
+      "item": "minecraft:melon"
+    },
+    "F": {
+      "item": "minecraft:pumpkin"
+    },
+    "G": {
+      "item": "minecraft:beetroot"
+    },
+    "H": {
+      "item": "minecraft:sweet_berries"
+    },
+    "I": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "BCD",
+    "IAE",
+    "HGF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_hobart"
+  }
+}

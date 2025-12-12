@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "siivagunnermusicdiscmod:music_disc_misha"
+    },
+    {
+      "item": "minecraft:writable_book"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_monika"
+  }
+}

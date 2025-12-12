@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:black_wool"
+    },
+    "D": {
+      "item": "minecraft:iron_sword"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "CAC",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_2b"
+  }
+}

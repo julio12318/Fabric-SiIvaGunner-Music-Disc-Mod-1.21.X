@@ -1,0 +1,8 @@
+{
+  "comparator_output": 8,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_omoriboy.desc"
+  },
+  "length_in_seconds": 95.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_omoriboy"
+}

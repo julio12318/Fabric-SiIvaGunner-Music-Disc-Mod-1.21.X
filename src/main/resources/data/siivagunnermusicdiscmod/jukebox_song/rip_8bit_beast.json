@@ -1,0 +1,8 @@
+{
+  "comparator_output": 8,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_8bit_beast.desc"
+  },
+  "length_in_seconds": 409.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_8bit_beast"
+}

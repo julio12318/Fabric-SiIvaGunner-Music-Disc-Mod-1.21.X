@@ -1,0 +1,8 @@
+{
+  "comparator_output": 6,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_mr_bean.desc"
+  },
+  "length_in_seconds": 140.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_mr_bean"
+}

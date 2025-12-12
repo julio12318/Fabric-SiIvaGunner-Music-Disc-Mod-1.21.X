@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "siivagunnermusicdiscmod:music_disc_robotnik"
+    },
+    "B": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "BBB",
+    " A ",
+    "BBB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_totinos"
+  }
+}

@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "siivagunnermusicdiscmod",
+	"version": "${version}",
+	"name": "SiIvaGunner Music Disc Mod",
+	"description": "A Minecraft Mod that adds several SiIvaGunner-themed Music Discs into the game!",
+	"authors": [
+		"julio12318"
+	],
+	"contact": {
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+
+	"icon": "assets/siivagunnermusicdiscmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.julio12318.siivagunnermusicdiscmod.SiIvaGunnerMusicDiscMod"
+		],
+		"fabric-datagen": [
+			"net.julio12318.siivagunnermusicdiscmod.SiIvaGunnerMusicDiscModDataGenerator"
+		],
+		"client": [
+			"net.julio12318.siivagunnermusicdiscmod.SiIvaGunnerMusicDiscModClient"
+		]
+	},
+	"mixins": [
+		"siivagunnermusicdiscmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.1",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

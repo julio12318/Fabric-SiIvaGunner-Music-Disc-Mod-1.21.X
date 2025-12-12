@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_charles_barkley.desc"
+  },
+  "length_in_seconds": 173.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_charles_barkley"
+}

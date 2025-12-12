@@ -1,0 +1,8 @@
+{
+  "comparator_output": 12,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_nintendo_power.desc"
+  },
+  "length_in_seconds": 174.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_nintendo_power"
+}

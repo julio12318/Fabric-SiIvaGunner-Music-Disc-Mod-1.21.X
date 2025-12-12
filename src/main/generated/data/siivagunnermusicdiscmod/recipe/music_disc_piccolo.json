@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "item": "minecraft:green_concrete"
+    },
+    "C": {
+      "item": "minecraft:purple_concrete"
+    },
+    "D": {
+      "item": "minecraft:potion"
+    }
+  },
+  "pattern": [
+    "CBC",
+    "BAB",
+    "CDC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_piccolo"
+  }
+}

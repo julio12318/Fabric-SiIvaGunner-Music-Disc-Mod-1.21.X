@@ -1,0 +1,8 @@
+{
+  "comparator_output": 6,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_bob_dylan.desc"
+  },
+  "length_in_seconds": 123.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_bob_dylan"
+}

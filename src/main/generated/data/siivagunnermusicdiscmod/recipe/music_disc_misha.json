@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "item": "minecraft:red_concrete"
+    },
+    "C": {
+      "item": "minecraft:iron_block"
+    },
+    "D": {
+      "item": "minecraft:black_concrete"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "CAC",
+    "DDD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_misha"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "C": {
+      "item": "minecraft:lime_wool"
+    },
+    "D": {
+      "item": "minecraft:brown_wool"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "CAC",
+    "DDD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_hamood"
+  }
+}

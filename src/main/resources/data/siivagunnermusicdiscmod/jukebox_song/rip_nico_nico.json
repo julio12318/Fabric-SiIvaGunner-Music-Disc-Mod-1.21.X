@@ -1,0 +1,8 @@
+{
+  "comparator_output": 8,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_nico_nico.desc"
+  },
+  "length_in_seconds": 135.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_nico_nico"
+}

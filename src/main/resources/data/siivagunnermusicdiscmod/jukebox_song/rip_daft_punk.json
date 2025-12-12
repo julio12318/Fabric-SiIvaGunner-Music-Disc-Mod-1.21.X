@@ -1,0 +1,8 @@
+{
+  "comparator_output": 11,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_daft_punk.desc"
+  },
+  "length_in_seconds": 93.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_daft_punk"
+}

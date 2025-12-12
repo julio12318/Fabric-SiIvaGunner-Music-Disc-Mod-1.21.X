@@ -1,0 +1,8 @@
+{
+  "comparator_output": 10,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_loud_nigra.desc"
+  },
+  "length_in_seconds": 20.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_loud_nigra"
+}

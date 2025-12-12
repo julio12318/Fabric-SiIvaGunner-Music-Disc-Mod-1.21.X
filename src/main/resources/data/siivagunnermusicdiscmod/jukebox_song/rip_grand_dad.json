@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_grand_dad.desc"
+  },
+  "length_in_seconds": 54.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_grand_dad"
+}

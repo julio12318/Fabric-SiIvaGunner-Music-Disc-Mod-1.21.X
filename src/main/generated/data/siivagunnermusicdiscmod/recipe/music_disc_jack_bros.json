@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    "B": {
+      "item": "minecraft:snowball"
+    },
+    "C": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BAB",
+    "CCC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "siivagunnermusicdiscmod:music_disc_jack_bros"
+  }
+}

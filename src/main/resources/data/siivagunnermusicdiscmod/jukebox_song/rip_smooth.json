@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_smooth.desc"
+  },
+  "length_in_seconds": 182.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_smooth"
+}

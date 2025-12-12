@@ -1,0 +1,874 @@
+{
+  "rip_siiva": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_siiva",
+        "stream": true
+      }
+    ]
+  },
+  "rip_grand_dad": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_grand_dad",
+        "stream": true
+      }
+    ]
+  },
+  "rip_nozomi": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_nozomi",
+        "stream": true
+      }
+    ]
+  },
+  "rip_tito_dick": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_tito_dick",
+        "stream": true
+      }
+    ]
+  },
+  "rip_loud_nigra": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_loud_nigra",
+        "stream": true
+      }
+    ]
+  },
+  "rip_chad_warden": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_chad_warden",
+        "stream": true
+      }
+    ]
+  },
+  "rip_voice": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_voice",
+        "stream": true
+      }
+    ]
+  },
+  "rip_sens": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_sens",
+        "stream": true
+      }
+    ]
+  },
+  "rip_felix": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_felix",
+        "stream": true
+      }
+    ]
+  },
+  "rip_haruka": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_haruka",
+        "stream": true
+      }
+    ]
+  },
+  "rip_robbie_rotten": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_robbie_rotten",
+        "stream": true
+      }
+    ]
+  },
+  "rip_wood_man": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_wood_man",
+        "stream": true
+      }
+    ]
+  },
+  "rip_meta_knight": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_meta_knight",
+        "stream": true
+      }
+    ]
+  },
+  "rip_santa": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_santa",
+        "stream": true
+      }
+    ]
+  },
+  "rip_joke_explainer": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_joke_explainer",
+        "stream": true
+      }
+    ]
+  },
+  "rip_andonuts": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_andonuts",
+        "stream": true
+      }
+    ]
+  },
+  "rip_stingy": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_stingy",
+        "stream": true
+      }
+    ]
+  },
+  "rip_bean": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_bean",
+        "stream": true
+      }
+    ]
+  },
+  "rip_siiva_ai": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_siiva_ai",
+        "stream": true
+      }
+    ]
+  },
+  "rip_haltmann": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_haltmann",
+        "stream": true
+      }
+    ]
+  },
+  "rip_susie": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_susie",
+        "stream": true
+      }
+    ]
+  },
+  "rip_kazoo_master": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_kazoo_master",
+        "stream": true
+      }
+    ]
+  },
+  "rip_snoop_dogg": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_snoop_dogg",
+        "stream": true
+      }
+    ]
+  },
+  "rip_soulja_boy": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_soulja_boy",
+        "stream": true
+      }
+    ]
+  },
+  "rip_chip": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_chip",
+        "stream": true
+      }
+    ]
+  },
+  "rip_charles_barkley": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_charles_barkley",
+        "stream": true
+      }
+    ]
+  },
+  "rip_parappa": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_parappa",
+        "stream": true
+      }
+    ]
+  },
+  "rip_hh": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_hh",
+        "stream": true
+      }
+    ]
+  },
+  "rip_nick_crompton": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_nick_crompton",
+        "stream": true
+      }
+    ]
+  },
+  "rip_monika": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_monika",
+        "stream": true
+      }
+    ]
+  },
+  "rip_misha": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_misha",
+        "stream": true
+      }
+    ]
+  },
+  "rip_psy": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_psy",
+        "stream": true
+      }
+    ]
+  },
+  "rip_homer": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_homer",
+        "stream": true
+      }
+    ]
+  },
+  "rip_peter": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_peter",
+        "stream": true
+      }
+    ]
+  },
+  "rip_2b": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_2b",
+        "stream": true
+      }
+    ]
+  },
+  "rip_rental": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_rental",
+        "stream": true
+      }
+    ]
+  },
+  "rip_reader_jerome": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_reader_jerome",
+        "stream": true
+      }
+    ]
+  },
+  "rip_ogg": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_ogg",
+        "stream": true
+      }
+    ]
+  },
+  "rip_gadget": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_gadget",
+        "stream": true
+      }
+    ]
+  },
+  "rip_nostalgia_critic": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_nostalgia_critic",
+        "stream": true
+      }
+    ]
+  },
+  "rip_takane": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_takane",
+        "stream": true
+      }
+    ]
+  },
+  "rip_8bit_beast": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_8bit_beast",
+        "stream": true
+      }
+    ]
+  },
+  "rip_lady": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_lady",
+        "stream": true
+      }
+    ]
+  },
+  "rip_proto": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_proto",
+        "stream": true
+      }
+    ]
+  },
+  "rip_ajit_pai": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_ajit_pai",
+        "stream": true
+      }
+    ]
+  },
+  "rip_geno": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_geno",
+        "stream": true
+      }
+    ]
+  },
+  "rip_off_the_hook": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_off_the_hook",
+        "stream": true
+      }
+    ]
+  },
+  "rip_weird_al": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_weird_al",
+        "stream": true
+      }
+    ]
+  },
+  "rip_pitbull": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_pitbull",
+        "stream": true
+      }
+    ]
+  },
+  "rip_nintendo_power": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_nintendo_power",
+        "stream": true
+      }
+    ]
+  },
+  "rip_men_in_black": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_men_in_black",
+        "stream": true
+      }
+    ]
+  },
+  "rip_zun": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_zun",
+        "stream": true
+      }
+    ]
+  },
+  "rip_thanos": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_thanos",
+        "stream": true
+      }
+    ]
+  },
+  "rip_wario_waluigi": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_wario_waluigi",
+        "stream": true
+      }
+    ]
+  },
+  "rip_dedede": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_dedede",
+        "stream": true
+      }
+    ]
+  },
+  "rip_snake": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_snake",
+        "stream": true
+      }
+    ]
+  },
+  "rip_dj_professor_k": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_dj_professor_k",
+        "stream": true
+      }
+    ]
+  },
+  "rip_etika": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_etika",
+        "stream": true
+      }
+    ]
+  },
+  "rip_hypercam": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_hypercam",
+        "stream": true
+      }
+    ]
+  },
+  "rip_quote": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_quote",
+        "stream": true
+      }
+    ]
+  },
+  "rip_adam_levine": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_adam_levine",
+        "stream": true
+      }
+    ]
+  },
+  "rip_johnny_bravo": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_johnny_bravo",
+        "stream": true
+      }
+    ]
+  },
+  "rip_krabs": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_krabs",
+        "stream": true
+      }
+    ]
+  },
+  "rip_mariya_takeuchi": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_mariya_takeuchi",
+        "stream": true
+      }
+    ]
+  },
+  "rip_robotnik": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_robotnik",
+        "stream": true
+      }
+    ]
+  },
+  "rip_daft_punk": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_daft_punk",
+        "stream": true
+      }
+    ]
+  },
+  "rip_papyrus": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_papyrus",
+        "stream": true
+      }
+    ]
+  },
+  "rip_jack_elmo": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_jack_elmo",
+        "stream": true
+      }
+    ]
+  },
+  "rip_piccolo": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_piccolo",
+        "stream": true
+      }
+    ]
+  },
+  "rip_jack_bros": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_jack_bros",
+        "stream": true
+      }
+    ]
+  },
+  "rip_hobart": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_hobart",
+        "stream": true
+      }
+    ]
+  },
+  "rip_rhythm_masters": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_rhythm_masters",
+        "stream": true
+      }
+    ]
+  },
+  "rip_nico_nico": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_nico_nico",
+        "stream": true
+      }
+    ]
+  },
+  "rip_donkey_kong": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_donkey_kong",
+        "stream": true
+      }
+    ]
+  },
+  "rip_missingno": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_missingno",
+        "stream": true
+      }
+    ]
+  },
+  "rip_jazz_cats": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_jazz_cats",
+        "stream": true
+      }
+    ]
+  },
+  "rip_eminem": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_eminem",
+        "stream": true
+      }
+    ]
+  },
+  "rip_law_disorder": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_law_disorder",
+        "stream": true
+      }
+    ]
+  },
+  "rip_john_notwoodman": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_john_notwoodman",
+        "stream": true
+      }
+    ]
+  },
+  "rip_mr_bean": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_mr_bean",
+        "stream": true
+      }
+    ]
+  },
+  "rip_cool_meme_team": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_cool_meme_team",
+        "stream": true
+      }
+    ]
+  },
+  "rip_boykisser": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_boykisser",
+        "stream": true
+      }
+    ]
+  },
+  "rip_pomni": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_pomni",
+        "stream": true
+      }
+    ]
+  },
+  "rip_gedagedi": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_gedagedi",
+        "stream": true
+      }
+    ]
+  },
+  "rip_numberphile": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_numberphile",
+        "stream": true
+      }
+    ]
+  },
+  "rip_charlie": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_charlie",
+        "stream": true
+      }
+    ]
+  },
+  "rip_brainless_kitty": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_brainless_kitty",
+        "stream": true
+      }
+    ]
+  },
+  "rip_silento": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_silento",
+        "stream": true
+      }
+    ]
+  },
+  "rip_hcb": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_hcb",
+        "stream": true
+      }
+    ]
+  },
+  "rip_girelle": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_girelle",
+        "stream": true
+      }
+    ]
+  },
+  "rip_gaijin_goomba": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_gaijin_goomba",
+        "stream": true
+      }
+    ]
+  },
+  "rip_freddy_fazbear": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_freddy_fazbear",
+        "stream": true
+      }
+    ]
+  },
+  "rip_boyfriend": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_boyfriend",
+        "stream": true
+      }
+    ]
+  },
+  "rip_baroes": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_baroes",
+        "stream": true
+      }
+    ]
+  },
+  "rip_raft_ride": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_raft_ride",
+        "stream": true
+      }
+    ]
+  },
+  "rip_hamood": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_hamood",
+        "stream": true
+      }
+    ]
+  },
+  "rip_totinos": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_totinos",
+        "stream": true
+      }
+    ]
+  },
+  "rip_sean_kingston": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_sean_kingston",
+        "stream": true
+      }
+    ]
+  },
+  "rip_smooth": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_smooth",
+        "stream": true
+      }
+    ]
+  },
+  "rip_bob_dylan": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_bob_dylan",
+        "stream": true
+      }
+    ]
+  },
+  "rip_masked_wolf": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_masked_wolf",
+        "stream": true
+      }
+    ]
+  },
+  "rip_ksi": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_ksi",
+        "stream": true
+      }
+    ]
+  },
+  "rip_burnice": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_burnice",
+        "stream": true
+      }
+    ]
+  },
+  "rip_omoriboy": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_omoriboy",
+        "stream": true
+      }
+    ]
+  },
+  "rip_super_idol": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_super_idol",
+        "stream": true
+      }
+    ]
+  },
+  "rip_max_verstappen": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_max_verstappen",
+        "stream": true
+      }
+    ]
+  },
+  "rip_noaka": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_noaka",
+        "stream": true
+      }
+    ]
+  },
+  "rip_400": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_400",
+        "stream": true
+      }
+    ]
+  },
+  "rip_man": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_man",
+        "stream": true
+      }
+    ]
+  }
+}

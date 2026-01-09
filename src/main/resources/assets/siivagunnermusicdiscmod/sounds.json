@@ -870,5 +870,205 @@
         "stream": true
       }
     ]
+  },
+  "rip_angry_joe": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_angry_joe",
+        "stream": true
+      }
+    ]
+  },
+  "rip_sorrizo": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_sorrizo",
+        "stream": true
+      }
+    ]
+  },
+  "rip_coraline": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_coraline",
+        "stream": true
+      }
+    ]
+  },
+  "rip_grinch": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_grinch",
+        "stream": true
+      }
+    ]
+  },
+  "rip_daddy_speed": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_daddy_speed",
+        "stream": true
+      }
+    ]
+  },
+  "rip_jerry_temporary": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_jerry_temporary",
+        "stream": true
+      }
+    ]
+  },
+  "rip_reimu": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_reimu",
+        "stream": true
+      }
+    ]
+  },
+  "rip_sumireko": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_sumireko",
+        "stream": true
+      }
+    ]
+  },
+  "rip_cirno": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_cirno",
+        "stream": true
+      }
+    ]
+  },
+  "rip_halation": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_halation",
+        "stream": true
+      }
+    ]
+  },
+  "rip_sss": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_sss",
+        "stream": true
+      }
+    ]
+  },
+  "rip_mmm": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_mmm",
+        "stream": true
+      }
+    ]
+  },
+  "rip_psy9th": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_psy9th",
+        "stream": true
+      }
+    ]
+  },
+  "rip_tsa": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_tsa",
+        "stream": true
+      }
+    ]
+  },
+  "rip_shovelware": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_shovelware",
+        "stream": true
+      }
+    ]
+  },
+  "rip_rip2": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_rip2",
+        "stream": true
+      }
+    ]
+  },
+  "rip_bombertracks": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_bombertracks",
+        "stream": true
+      }
+    ]
+  },
+  "rip_installer": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_installer",
+        "stream": true
+      }
+    ]
+  },
+  "rip_spmm": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_spmm",
+        "stream": true
+      }
+    ]
+  },
+  "rip_lazytunes": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_lazytunes",
+        "stream": true
+      }
+    ]
+  },
+  "rip_incompetracks": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_incompetracks",
+        "stream": true
+      }
+    ]
+  },
+  "rip_mpp": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_mpp",
+        "stream": true
+      }
+    ]
+  },
+  "rip_baka_mitunes": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_baka_mitunes",
+        "stream": true
+      }
+    ]
+  },
+  "rip_jsre": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_jsre",
+        "stream": true
+      }
+    ]
+  },
+  "rip_ek": {
+    "sounds": [
+      {
+        "name": "siivagunnermusicdiscmod:rip_ek",
+        "stream": true
+      }
+    ]
   }
 }

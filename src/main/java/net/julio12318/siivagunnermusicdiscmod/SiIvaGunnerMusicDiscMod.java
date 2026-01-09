@@ -4,8 +4,10 @@ import net.fabricmc.api.ModInitializer;
 
 import net.fabricmc.fabric.api.entity.event.v1.ServerEntityCombatEvents;
 import net.fabricmc.fabric.api.event.player.AttackEntityCallback;
+import net.julio12318.siivagunnermusicdiscmod.block.entity.ModBlockEntities;
 import net.julio12318.siivagunnermusicdiscmod.item.ModItemGroups;
 import net.julio12318.siivagunnermusicdiscmod.item.ModItems;
+import net.julio12318.siivagunnermusicdiscmod.particle.ModParticles;
 import net.julio12318.siivagunnermusicdiscmod.sound.ModSounds;
 import net.julio12318.siivagunnermusicdiscmod.util.ModLootTableModifiers;
 import net.minecraft.entity.mob.*;
@@ -30,6 +32,9 @@ public class SiIvaGunnerMusicDiscMod implements ModInitializer {
 		ModItems.registerModItems();
 		ModSounds.registerSounds();
 		ModLootTableModifiers.modifyLootTables();
+		ModBlockEntities.registerBlockEntities();
+		ModParticles.registerParticles();
+
 
 		ServerEntityCombatEvents.AFTER_KILLED_OTHER_ENTITY.register(((serverWorld, entity, livingEntity) -> {
 			if (entity instanceof CreeperEntity creeper && creeper.isIgnited()) {

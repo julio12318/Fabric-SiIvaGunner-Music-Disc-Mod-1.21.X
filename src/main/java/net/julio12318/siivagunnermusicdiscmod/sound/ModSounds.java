@@ -555,6 +555,131 @@ public class ModSounds {
     public static final RegistryKey<JukeboxSong> MUSIC_MAN_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_man"));
 
+    // The Grinch's Music
+    public static final SoundEvent MUSIC_GRINCH = registerSoundEvent("rip_grinch");
+    public static final RegistryKey<JukeboxSong> MUSIC_GRINCH_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_grinch"));
+
+    // Angry Joe's Music
+    public static final SoundEvent MUSIC_ANGRY_JOE = registerSoundEvent("rip_angry_joe");
+    public static final RegistryKey<JukeboxSong> MUSIC_ANGRY_JOE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_angry_joe"));
+
+    // Coraline's Music
+    public static final SoundEvent MUSIC_CORALINE = registerSoundEvent("rip_coraline");
+    public static final RegistryKey<JukeboxSong> MUSIC_CORALINE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_coraline"));
+
+    // Sumireko's Music
+    public static final SoundEvent MUSIC_SUMIREKO = registerSoundEvent("rip_sumireko");
+    public static final RegistryKey<JukeboxSong> MUSIC_SUMIREKO_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_sumireko"));
+
+    // Cirno's Music
+    public static final SoundEvent MUSIC_CIRNO = registerSoundEvent("rip_cirno");
+    public static final RegistryKey<JukeboxSong> MUSIC_CIRNO_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_cirno"));
+
+    // Reimu's Music
+    public static final SoundEvent MUSIC_REIMU = registerSoundEvent("rip_reimu");
+    public static final RegistryKey<JukeboxSong> MUSIC_REIMU_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_reimu"));
+
+    // DaddySpeed's Music
+    public static final SoundEvent MUSIC_DADDY_SPEED = registerSoundEvent("rip_daddy_speed");
+    public static final RegistryKey<JukeboxSong> MUSIC_DADDY_SPEED_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_daddy_speed"));
+
+    // Jerry Temporary's Music
+    public static final SoundEvent MUSIC_JERRY_TEMPORARY = registerSoundEvent("rip_jerry_temporary");
+    public static final RegistryKey<JukeboxSong> MUSIC_JERRY_TEMPORARY_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_jerry_temporary"));
+
+    // SORRIZO RONALDO's Music
+    public static final SoundEvent MUSIC_SORRIZO = registerSoundEvent("rip_sorrizo");
+    public static final RegistryKey<JukeboxSong> MUSIC_SORRIZO_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_sorrizo"));
+
+    // Halation Celebration's Music
+    public static final SoundEvent MUSIC_HALATION = registerSoundEvent("rip_halation");
+    public static final RegistryKey<JukeboxSong> MUSIC_HALATION_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_halation"));
+
+    // Super Star Symphony's Music
+    public static final SoundEvent MUSIC_SSS = registerSoundEvent("rip_sss");
+    public static final RegistryKey<JukeboxSong> MUSIC_SSS_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_sss"));
+
+    // Musical Monkey Madness's Music
+    public static final SoundEvent MUSIC_MMM = registerSoundEvent("rip_mmm");
+    public static final RegistryKey<JukeboxSong> MUSIC_MMM_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_mmm"));
+
+    // PSY 9th Arrangements' Music
+    public static final SoundEvent MUSIC_PSY9TH = registerSoundEvent("rip_psy9th");
+    public static final RegistryKey<JukeboxSong> MUSIC_PSY9TH_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_psy9th"));
+
+    // Tactical Stealth Arrangements' Music
+    public static final SoundEvent MUSIC_TSA = registerSoundEvent("rip_tsa");
+    public static final RegistryKey<JukeboxSong> MUSIC_TSA_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_tsa"));
+
+    // Shovelware from Beyond the Deep's Music
+    public static final SoundEvent MUSIC_SHOVELWARE = registerSoundEvent("rip_shovelware");
+    public static final RegistryKey<JukeboxSong> MUSIC_SHOVELWARE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_shovelware"));
+
+    // RIP2's Music
+    public static final SoundEvent MUSIC_RIP2 = registerSoundEvent("rip_rip2");
+    public static final RegistryKey<JukeboxSong> MUSIC_RIP2_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_rip2"));
+
+    // BOMBERTRACKS's Music
+    public static final SoundEvent MUSIC_BOMBERTRACKS = registerSoundEvent("rip_bombertracks");
+    public static final RegistryKey<JukeboxSong> MUSIC_BOMBERTRACKS_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_bombertracks"));
+
+    // INSTALLER INSANITY's Music
+    public static final SoundEvent MUSIC_INSTALLER = registerSoundEvent("rip_installer");
+    public static final RegistryKey<JukeboxSong> MUSIC_INSTALLER_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_installer"));
+
+    // The Steam-Powered Melody Machine's Music
+    public static final SoundEvent MUSIC_SPMM = registerSoundEvent("rip_spmm");
+    public static final RegistryKey<JukeboxSong> MUSIC_SPMM_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_spmm"));
+
+    // LazyTunes's Music
+    public static final SoundEvent MUSIC_LAZYTUNES = registerSoundEvent("rip_lazytunes");
+    public static final RegistryKey<JukeboxSong> MUSIC_LAZYTUNES_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_lazytunes"));
+
+    // Incompetracks's Music
+    public static final SoundEvent MUSIC_INCOMPETRACKS = registerSoundEvent("rip_incompetracks");
+    public static final RegistryKey<JukeboxSong> MUSIC_INCOMPETRACKS_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_incompetracks"));
+
+    // Mii Plaza Palooza's Music
+    public static final SoundEvent MUSIC_MPP = registerSoundEvent("rip_mpp");
+    public static final RegistryKey<JukeboxSong> MUSIC_MPP_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_mpp"));
+
+    // Baka Mi-Tunes's Music
+    public static final SoundEvent MUSIC_BAKA_MITUNES = registerSoundEvent("rip_baka_mitunes");
+    public static final RegistryKey<JukeboxSong> MUSIC_BAKA_MITUNES_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_baka_mitunes"));
+
+    // Jet Set Radio Evolution's Music
+    public static final SoundEvent MUSIC_JSRE = registerSoundEvent("rip_jsre");
+    public static final RegistryKey<JukeboxSong> MUSIC_JSRE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_jsre"));
+
+    // Eternal Katamari's Music
+    public static final SoundEvent MUSIC_EK = registerSoundEvent("rip_ek");
+    public static final RegistryKey<JukeboxSong> MUSIC_EK_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, "rip_ek"));
+
     public static SoundEvent registerSoundEvent(String name) {
         Identifier id = Identifier.of(SiIvaGunnerMusicDiscMod.MOD_ID, name);
         return Registry.register(Registries.SOUND_EVENT, id, SoundEvent.of(id));

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 12,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_incompetracks.desc"
+  },
+  "length_in_seconds": 371.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_incompetracks"
+}

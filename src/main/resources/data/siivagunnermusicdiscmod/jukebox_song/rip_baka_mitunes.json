@@ -1,0 +1,8 @@
+{
+  "comparator_output": 14,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_baka_mitunes.desc"
+  },
+  "length_in_seconds": 252.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_baka_mitunes"
+}

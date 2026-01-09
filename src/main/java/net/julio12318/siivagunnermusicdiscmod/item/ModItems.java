@@ -228,6 +228,56 @@ public class ModItems {
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_400_KEY).maxCount(1)));
     public static final Item MUSIC_DISC_MAN = registerItem("music_disc_man",
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_MAN_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_SORRIZO = registerItem("music_disc_sorrizo",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_SORRIZO_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_ANGRY_JOE = registerItem("music_disc_angry_joe",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_ANGRY_JOE_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_SUMIREKO = registerItem("music_disc_sumireko",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_SUMIREKO_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_REIMU = registerItem("music_disc_reimu",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_REIMU_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_CIRNO = registerItem("music_disc_cirno",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_CIRNO_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_DADDY_SPEED = registerItem("music_disc_daddy_speed",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_DADDY_SPEED_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_GRINCH = registerItem("music_disc_grinch",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_GRINCH_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_CORALINE = registerItem("music_disc_coraline",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_CORALINE_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_JERRY_TEMPORARY = registerItem("music_disc_jerry_temporary",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_JERRY_TEMPORARY_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_HALATION = registerItem("music_disc_halation",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_HALATION_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_SSS = registerItem("music_disc_sss",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_SSS_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_MMM = registerItem("music_disc_mmm",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_MMM_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_PSY9TH = registerItem("music_disc_psy9th",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_PSY9TH_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_TSA = registerItem("music_disc_tsa",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_TSA_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_SHOVELWARE = registerItem("music_disc_shovelware",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_SHOVELWARE_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_RIP2 = registerItem("music_disc_rip2",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_RIP2_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_BOMBERTRACKS = registerItem("music_disc_bombertracks",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_BOMBERTRACKS_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_INSTALLER = registerItem("music_disc_installer",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_INSTALLER_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_SPMM = registerItem("music_disc_spmm",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_SPMM_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_LAZYTUNES = registerItem("music_disc_lazytunes",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_LAZYTUNES_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_INCOMPETRACKS = registerItem("music_disc_incompetracks",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_INCOMPETRACKS_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_MPP = registerItem("music_disc_mpp",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_MPP_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_BAKA_MITUNES = registerItem("music_disc_baka_mitunes",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_BAKA_MITUNES_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_JSRE = registerItem("music_disc_jsre",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_JSRE_KEY).maxCount(1)));
+    public static final Item MUSIC_DISC_EK = registerItem("music_disc_ek",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.MUSIC_EK_KEY).maxCount(1)));
 
     public static final Item MISSINGNO_FRAGMENT = registerItem("missingno_fragment",
             new Item(new Item.Settings()));

@@ -2,19 +2,58 @@ package net.julio12318.siivagunnermusicdiscmod.datagen;
 
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
+import net.julio12318.siivagunnermusicdiscmod.block.ModBlocks;
+import net.julio12318.siivagunnermusicdiscmod.block.custom.HalationJukeboxBlock;
+import net.julio12318.siivagunnermusicdiscmod.block.custom.LawDisorderJukeboxBlock;
+import net.julio12318.siivagunnermusicdiscmod.block.custom.RobobotJukeboxBlock;
+import net.julio12318.siivagunnermusicdiscmod.block.custom.SorrizoJukeboxBlock;
 import net.julio12318.siivagunnermusicdiscmod.item.ModItems;
-import net.minecraft.data.client.BlockStateModelGenerator;
-import net.minecraft.data.client.ItemModelGenerator;
-import net.minecraft.data.client.Models;
+import net.minecraft.block.Blocks;
+import net.minecraft.data.client.*;
+import net.minecraft.util.Identifier;
 
 public class ModModelProvider extends FabricModelProvider {
+
     public ModModelProvider(FabricDataOutput output) {
         super(output);
     }
 
+
     @Override
     public void generateBlockStateModels(BlockStateModelGenerator blockStateModelGenerator) {
+        blockStateModelGenerator.registerSingleton(ModBlocks.SIIVA_JUKEBOX, TexturedModel.CUBE_TOP);
+        blockStateModelGenerator.registerSingleton(ModBlocks.VOICE_JUKEBOX, TexturedModel.CUBE_TOP);
+        blockStateModelGenerator.registerSingleton(ModBlocks.KFAD_JUKEBOX, TexturedModel.CUBE_TOP);
 
+        //MissingNo Jukebox Model Generator
+        Identifier missingnoOffIdentifier = TexturedModel.CUBE_TOP.upload(ModBlocks.MISSINGNO_JUKEBOX, blockStateModelGenerator.modelCollector);
+        TextureMap missingnoOnTextureMap = (new TextureMap()).put(TextureKey.SIDE, TextureMap.getSubId(ModBlocks.MISSINGNO_JUKEBOX, "_side_on")).put(TextureKey.TOP, TextureMap.getSubId(ModBlocks.MISSINGNO_JUKEBOX, "_top_on"));
+        Identifier missingnoOnIdentifier = Models.CUBE_TOP.upload(ModBlocks.MISSINGNO_JUKEBOX, "_on", missingnoOnTextureMap, blockStateModelGenerator.modelCollector);
+        blockStateModelGenerator.blockStateCollector.accept(VariantsBlockStateSupplier.create(ModBlocks.MISSINGNO_JUKEBOX).coordinate(BlockStateModelGenerator.createBooleanModelMap(RobobotJukeboxBlock.HAS_RECORD, missingnoOnIdentifier, missingnoOffIdentifier)));
+
+        //Robobot Jukebox Model Generator
+        Identifier robobotOffIdentifier = TexturedModel.CUBE_TOP.upload(ModBlocks.ROBOBOT_JUKEBOX, blockStateModelGenerator.modelCollector);
+        TextureMap robobotOnTextureMap = (new TextureMap()).put(TextureKey.SIDE, TextureMap.getSubId(ModBlocks.ROBOBOT_JUKEBOX, "_side_on")).put(TextureKey.TOP, TextureMap.getSubId(ModBlocks.ROBOBOT_JUKEBOX, "_top"));
+        Identifier robobotOnIdentifier = Models.CUBE_TOP.upload(ModBlocks.ROBOBOT_JUKEBOX, "_on", robobotOnTextureMap, blockStateModelGenerator.modelCollector);
+        blockStateModelGenerator.blockStateCollector.accept(VariantsBlockStateSupplier.create(ModBlocks.ROBOBOT_JUKEBOX).coordinate(BlockStateModelGenerator.createBooleanModelMap(RobobotJukeboxBlock.HAS_RECORD, robobotOnIdentifier, robobotOffIdentifier)));
+
+        //Sorrizo Jukebox Model Generator
+        Identifier sorrizoOffIdentifier = TexturedModel.CUBE_TOP.upload(ModBlocks.SORRIZO_JUKEBOX, blockStateModelGenerator.modelCollector);
+        TextureMap sorrizoOnTextureMap = (new TextureMap()).put(TextureKey.SIDE, TextureMap.getSubId(ModBlocks.SORRIZO_JUKEBOX, "_side_on")).put(TextureKey.TOP, TextureMap.getSubId(ModBlocks.SORRIZO_JUKEBOX, "_top"));
+        Identifier sorrizoOnIdentifier = Models.CUBE_TOP.upload(ModBlocks.SORRIZO_JUKEBOX, "_on", sorrizoOnTextureMap, blockStateModelGenerator.modelCollector);
+        blockStateModelGenerator.blockStateCollector.accept(VariantsBlockStateSupplier.create(ModBlocks.SORRIZO_JUKEBOX).coordinate(BlockStateModelGenerator.createBooleanModelMap(SorrizoJukeboxBlock.HAS_RECORD, sorrizoOnIdentifier, sorrizoOffIdentifier)));
+
+        //Snow Halation Jukebox Model Generator
+        Identifier halationOffIdentifier = TexturedModel.CUBE_TOP.upload(ModBlocks.HALATION_JUKEBOX, blockStateModelGenerator.modelCollector);
+        TextureMap halationOnTextureMap = (new TextureMap()).put(TextureKey.SIDE, TextureMap.getSubId(ModBlocks.HALATION_JUKEBOX, "_side_on")).put(TextureKey.TOP, TextureMap.getSubId(ModBlocks.HALATION_JUKEBOX, "_top"));
+        Identifier halationOnIdentifier = Models.CUBE_TOP.upload(ModBlocks.HALATION_JUKEBOX, "_on", halationOnTextureMap, blockStateModelGenerator.modelCollector);
+        blockStateModelGenerator.blockStateCollector.accept(VariantsBlockStateSupplier.create(ModBlocks.HALATION_JUKEBOX).coordinate(BlockStateModelGenerator.createBooleanModelMap(HalationJukeboxBlock.HAS_RECORD, halationOnIdentifier, halationOffIdentifier)));
+
+        //Law & Disorder Jukebox Model Generator
+        Identifier lawDisorderOffIdentifier = TexturedModel.CUBE_TOP.upload(ModBlocks.LAW_DISORDER_JUKEBOX, blockStateModelGenerator.modelCollector);
+        TextureMap lawDisorderOnTextureMap = (new TextureMap()).put(TextureKey.SIDE, TextureMap.getSubId(ModBlocks.LAW_DISORDER_JUKEBOX, "_side_on")).put(TextureKey.TOP, TextureMap.getSubId(ModBlocks.LAW_DISORDER_JUKEBOX, "_top"));
+        Identifier lawDisorderOnIdentifier = Models.CUBE_TOP.upload(ModBlocks.LAW_DISORDER_JUKEBOX, "_on", lawDisorderOnTextureMap, blockStateModelGenerator.modelCollector);
+        blockStateModelGenerator.blockStateCollector.accept(VariantsBlockStateSupplier.create(ModBlocks.LAW_DISORDER_JUKEBOX).coordinate(BlockStateModelGenerator.createBooleanModelMap(LawDisorderJukeboxBlock.HAS_RECORD, lawDisorderOnIdentifier, lawDisorderOffIdentifier)));
     }
 
     @Override
@@ -128,6 +167,31 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.MUSIC_DISC_NOAKA, Models.GENERATED);
         itemModelGenerator.register(ModItems.MUSIC_DISC_400, Models.GENERATED);
         itemModelGenerator.register(ModItems.MUSIC_DISC_MAN, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_SORRIZO, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_JERRY_TEMPORARY, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_CORALINE, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_GRINCH, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_DADDY_SPEED, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_ANGRY_JOE, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_SUMIREKO, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_REIMU, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_CIRNO, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_HALATION, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_SSS, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_MMM, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_PSY9TH, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_TSA, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_SHOVELWARE, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_RIP2, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_BOMBERTRACKS, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_INSTALLER, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_SPMM, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_LAZYTUNES, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_INCOMPETRACKS, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_MPP, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_BAKA_MITUNES, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_JSRE, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MUSIC_DISC_EK, Models.GENERATED);
 
         itemModelGenerator.register(ModItems.MISSINGNO_FRAGMENT, Models.GENERATED);
         itemModelGenerator.register(ModItems.BAT_WING, Models.GENERATED);

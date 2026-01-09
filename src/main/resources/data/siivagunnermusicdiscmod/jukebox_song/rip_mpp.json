@@ -1,0 +1,8 @@
+{
+  "comparator_output": 13,
+  "description": {
+    "translate": "item.siivagunnermusicdiscmod.music_disc_mpp.desc"
+  },
+  "length_in_seconds": 234.0,
+  "sound_event": "siivagunnermusicdiscmod:rip_mpp"
+}

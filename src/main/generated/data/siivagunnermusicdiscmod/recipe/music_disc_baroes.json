@@ -6,16 +6,16 @@
       "tag": "minecraft:creeper_drop_music_discs"
     },
     "B": {
-      "item": "minecraft:lime_concrete"
+      "item": "minecraft:orange_concrete"
     },
     "C": {
-      "item": "minecraft:blue_concrete"
+      "item": "minecraft:goat_horn"
     }
   },
   "pattern": [
-    "BCB",
+    "BBB",
     "CAC",
-    "BCB"
+    "BBB"
   ],
   "result": {
     "count": 1,

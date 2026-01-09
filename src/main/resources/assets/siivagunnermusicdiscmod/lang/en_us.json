@@ -326,9 +326,94 @@
   "item.siivagunnermusicdiscmod.music_disc_man": "Music Disc (???)",
   "item.siivagunnermusicdiscmod.music_disc_man.desc": "Title - Egg",
 
+  "item.siivagunnermusicdiscmod.music_disc_grinch": "Music Disc (The Grinch)",
+  "item.siivagunnermusicdiscmod.music_disc_grinch.desc": "Snake Eater (In-Game Version) - Metal Gear Solid 3: Snake Eater",
+
+  "item.siivagunnermusicdiscmod.music_disc_jerry_temporary": "Music Disc (Jerry Temporary)",
+  "item.siivagunnermusicdiscmod.music_disc_jerry_temporary.desc": "Temporary Secretary Fusion Collab",
+
+  "item.siivagunnermusicdiscmod.music_disc_coraline": "Music Disc (Coraline)",
+  "item.siivagunnermusicdiscmod.music_disc_coraline.desc": "8 PM (Fishing Night in Heaven) - SiIvaGunner: King for Another Day",
+
+  "item.siivagunnermusicdiscmod.music_disc_sorrizo": "Music Disc (SORRIZO RONALDO)",
+  "item.siivagunnermusicdiscmod.music_disc_sorrizo.desc": "We Will Rock You vs. Robot Rock - DJ Hero",
+
+  "item.siivagunnermusicdiscmod.music_disc_daddy_speed": "Music Disc (DaddySpeed)",
+  "item.siivagunnermusicdiscmod.music_disc_daddy_speed.desc": "Corridors of Time (CD Mix) - Chrono Trigger",
+
+  "item.siivagunnermusicdiscmod.music_disc_angry_joe": "Music Disc (Angry Joe)",
+  "item.siivagunnermusicdiscmod.music_disc_angry_joe.desc": "j - The SiIvaGunner Christmas Comeback Crisis Original Soundtrack",
+
+  "item.siivagunnermusicdiscmod.music_disc_sumireko": "Music Disc (Sumireko Usami)",
+  "item.siivagunnermusicdiscmod.music_disc_sumireko.desc": "Lucid Dreamer (Comiket 94 Version) - Touhou 16.5: Violet Detector",
+
+  "item.siivagunnermusicdiscmod.music_disc_reimu": "Music Disc (Reimu Hakurei)",
+  "item.siivagunnermusicdiscmod.music_disc_reimu.desc": "Growing On Me (Alpha Mix) - The World's Hardest Game",
+
+  "item.siivagunnermusicdiscmod.music_disc_cirno": "Music Disc (Cirno)",
+  "item.siivagunnermusicdiscmod.music_disc_cirno.desc": "Beloved Tomboyish Girl (WAV Version) - Touhou 6: the Embodiment of Scarlet Devil",
+
+  "item.siivagunnermusicdiscmod.music_disc_halation": "Music Disc (Halation Celebration)",
+  "item.siivagunnermusicdiscmod.music_disc_halation.desc": "Todo-K (ft. DJ Professor K)",
+
+  "item.siivagunnermusicdiscmod.music_disc_sss": "Music Disc (Super Star Symphony)",
+  "item.siivagunnermusicdiscmod.music_disc_sss.desc": "Beach Field",
+
+  "item.siivagunnermusicdiscmod.music_disc_mmm": "Music Disc (Musical Monkey Madness)",
+  "item.siivagunnermusicdiscmod.music_disc_mmm.desc": "Eye Wall",
+
+  "item.siivagunnermusicdiscmod.music_disc_psy9th": "Music Disc (PSY 9th Arrangements)",
+  "item.siivagunnermusicdiscmod.music_disc_psy9th.desc": "I Like That",
+
+  "item.siivagunnermusicdiscmod.music_disc_tsa": "Music Disc (Tactical Stealth Arrangements)",
+  "item.siivagunnermusicdiscmod.music_disc_tsa.desc": "Nuclear (Wild)",
+
+  "item.siivagunnermusicdiscmod.music_disc_shovelware": "Music Disc (Shovelware from Beyond the Deep!)",
+  "item.siivagunnermusicdiscmod.music_disc_shovelware.desc": "Pepsicore",
+
+  "item.siivagunnermusicdiscmod.music_disc_rip2": "Music Disc (RIP²)",
+  "item.siivagunnermusicdiscmod.music_disc_rip2.desc": "Athletic Cartoons",
+
+  "item.siivagunnermusicdiscmod.music_disc_bombertracks": "Music Disc (BOMBERTRACKS)",
+  "item.siivagunnermusicdiscmod.music_disc_bombertracks.desc": "1",
+
+  "item.siivagunnermusicdiscmod.music_disc_installer": "Music Disc (INSTALLER INSANITY)",
+  "item.siivagunnermusicdiscmod.music_disc_installer.desc": "Shuric Rave",
+
+  "item.siivagunnermusicdiscmod.music_disc_spmm": "Music Disc (The Steam-Powered Melody Machine)",
+  "item.siivagunnermusicdiscmod.music_disc_spmm.desc": "RED SPY IS IN THE BASS",
+
+  "item.siivagunnermusicdiscmod.music_disc_lazytunes": "Music Disc (LazyTunes)",
+  "item.siivagunnermusicdiscmod.music_disc_lazytunes.desc": "Lazystep",
+
+  "item.siivagunnermusicdiscmod.music_disc_incompetracks": "Music Disc (incompetracks)",
+  "item.siivagunnermusicdiscmod.music_disc_incompetracks.desc": "Friendly Counterpoint",
+
+  "item.siivagunnermusicdiscmod.music_disc_mpp": "Music Disc (Mii Plaza Palooza)",
+  "item.siivagunnermusicdiscmod.music_disc_mpp.desc": "Architect's Apotheosis",
+
+  "item.siivagunnermusicdiscmod.music_disc_baka_mitunes": "Music Disc (Baka Mi-Tunes)",
+  "item.siivagunnermusicdiscmod.music_disc_baka_mitunes.desc": "Bakamitai -Full Halation Edition- (feat. Dottovu)",
+
+  "item.siivagunnermusicdiscmod.music_disc_jsre": "Music Disc (Jet Set Radio Evolution)",
+  "item.siivagunnermusicdiscmod.music_disc_jsre.desc": "Blow My Speakers Up! (Blown Out Mix)",
+
+  "item.siivagunnermusicdiscmod.music_disc_ek": "Music Disc (Eternal Katamari)",
+  "item.siivagunnermusicdiscmod.music_disc_ek.desc": "♡ katamari UNIVERSE",
+
+
 
   "item.siivagunnermusicdiscmod.missingno_fragment": "MissingNo. Fragment",
   "item.siivagunnermusicdiscmod.bat_wing": "Bat Wing",
+  "block.siivagunnermusicdiscmod.siiva_jukebox": "Jukebox (SiIvaGunner)",
+  "block.siivagunnermusicdiscmod.voice_jukebox": "Jukebox (The Voice Inside Your Head)",
+  "block.siivagunnermusicdiscmod.kfad_jukebox": "Jukebox (King for Another Day)",
+  "block.siivagunnermusicdiscmod.missingno_jukebox": "Jukebox (MissingNo.)",
+  "block.siivagunnermusicdiscmod.robobot_jukebox": "Jukebox (Kirby Planet Robobot)",
+  "block.siivagunnermusicdiscmod.sorrizo_jukebox": "Jukebox (Se Piscar Já Era)",
+  "block.siivagunnermusicdiscmod.halation_jukebox": "Jukebox (Snow halation)",
+  "block.siivagunnermusicdiscmod.law_disorder_jukebox": "Jukebox (Law & Disorder)",
+
 
 
   "itemgroup.siivagunnermusicdiscmod.siiva_music_discs": "SiIvaGunner Music Discs",

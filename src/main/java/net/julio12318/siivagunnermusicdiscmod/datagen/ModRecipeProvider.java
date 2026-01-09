@@ -2,19 +2,23 @@ package net.julio12318.siivagunnermusicdiscmod.datagen;
 
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricRecipeProvider;
+import net.julio12318.siivagunnermusicdiscmod.block.ModBlocks;
 import net.julio12318.siivagunnermusicdiscmod.item.ModItems;
+import net.julio12318.siivagunnermusicdiscmod.util.ModTags;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.data.server.recipe.RecipeExporter;
 import net.minecraft.data.server.recipe.ShapedRecipeJsonBuilder;
 import net.minecraft.data.server.recipe.ShapelessRecipeJsonBuilder;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemConvertible;
 import net.minecraft.item.Items;
 import net.minecraft.recipe.book.RecipeCategory;
 import net.minecraft.registry.RegistryWrapper;
 import net.minecraft.registry.tag.BlockTags;
 import net.minecraft.registry.tag.ItemTags;
 
+import java.util.List;
 import java.util.concurrent.CompletableFuture;
 
 public class ModRecipeProvider extends FabricRecipeProvider {
@@ -24,6 +28,7 @@ public class ModRecipeProvider extends FabricRecipeProvider {
 
     @Override
     public void generate(RecipeExporter recipeExporter) {
+
         //SiIva Disc Recipe
         ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_SIIVA)
                 .pattern("BBB")
@@ -913,14 +918,13 @@ public class ModRecipeProvider extends FabricRecipeProvider {
 
         // Baroes Disc Recipe
         ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_BAROES)
-                .pattern("BCB")
+                .pattern("BBB")
                 .pattern("CAC")
-                .pattern("BCB")
+                .pattern("BBB")
                 .input('A', ItemTags.CREEPER_DROP_MUSIC_DISCS)
-                .input('B', Blocks.LIME_CONCRETE)
-                .input('C', Blocks.BLUE_CONCRETE)
-                .criterion(hasItem(Items.BLUE_CONCRETE), conditionsFromItem(Items.BLUE_CONCRETE))
-                .criterion(hasItem(Items.LIME_CONCRETE), conditionsFromItem(Items.LIME_CONCRETE))
+                .input('B', Blocks.ORANGE_CONCRETE)
+                .input('C', Items.GOAT_HORN)
+                .criterion(hasItem(Items.ORANGE_CONCRETE), conditionsFromItem(Items.ORANGE_CONCRETE))
                 .offerTo(recipeExporter);
 
         // Raft Ride Disc Recipe
@@ -1037,6 +1041,314 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .input('B', Blocks.GOLD_BLOCK)
                 .input('C', Items.NETHER_STAR)
                 .criterion(hasItem(Items.NETHER_STAR), conditionsFromItem(Items.NETHER_STAR))
+                .offerTo(recipeExporter);
+
+        // Angry Joe Recipe
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_ANGRY_JOE)
+                .pattern(" B ")
+                .pattern("BAB")
+                .pattern(" B ")
+                .input('A', ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .input('B', Items.CLOCK)
+                .criterion(hasItem(Items.CLOCK), conditionsFromItem(Items.CLOCK))
+                .offerTo(recipeExporter);
+
+        // Sorrizo Ronaldo Recipe
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_SORRIZO)
+                .pattern("BCB")
+                .pattern("CAC")
+                .pattern("BCB")
+                .input('A', ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .input('B', Blocks.LIME_CONCRETE)
+                .input('C', Blocks.BLUE_CONCRETE)
+                .criterion(hasItem(Items.LIME_CONCRETE), conditionsFromItem(Items.LIME_CONCRETE))
+                .criterion(hasItem(Items.BLUE_CONCRETE), conditionsFromItem(Items.BLUE_CONCRETE))
+                .offerTo(recipeExporter);
+
+        // Coraline Disc Recipe
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_CORALINE)
+                .input(ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .input(Items.FISHING_ROD)
+                .criterion(hasItem(Items.FISHING_ROD), conditionsFromItem(Items.FISHING_ROD))
+                .offerTo(recipeExporter);
+
+        // DaddySpeed Recipe
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_DADDY_SPEED)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .input('B', Items.COOKED_PORKCHOP)
+                .criterion(hasItem(Items.COOKED_PORKCHOP), conditionsFromItem(Items.COOKED_PORKCHOP))
+                .offerTo(recipeExporter);
+
+        // The Grinch Recipe
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_GRINCH)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .input('B', Blocks.LIME_WOOL)
+                .criterion(hasItem(Items.LIME_WOOL), conditionsFromItem(Items.LIME_WOOL))
+                .offerTo(recipeExporter);
+
+        // Jerry Temporary Disc Recipe
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_JERRY_TEMPORARY)
+                .input(ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .input(Blocks.BOOKSHELF)
+                .criterion(hasItem(Items.BOOKSHELF), conditionsFromItem(Items.BOOKSHELF))
+                .offerTo(recipeExporter);
+
+        // Sumireko Disc Recipe
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_SUMIREKO)
+                .input(ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .input(ItemTags.BEDS)
+                .criterion(hasItem(Items.WHITE_WOOL), conditionsFromItem(Items.WHITE_WOOL))
+                .offerTo(recipeExporter);
+
+        // Cirno Recipe
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_CIRNO)
+                .pattern("CBC")
+                .pattern("BAB")
+                .pattern(" B ")
+                .input('A', ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .input('B', Blocks.ICE)
+                .input('C', ModItems.BAT_WING)
+                .criterion(hasItem(Items.ICE), conditionsFromItem(Items.ICE))
+                .offerTo(recipeExporter);
+
+        // Reimu Disc Recipe
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_REIMU)
+                .input(ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .input(Items.APPLE)
+                .criterion(hasItem(Items.APPLE), conditionsFromItem(Items.APPLE))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_HALATION)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', ModItems.MUSIC_DISC_NOZOMI)
+                .input('B', Items.DIAMOND)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_SSS)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', ModTags.Items.KIRBY_DISCS)
+                .input('B', Items.DIAMOND)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_MMM)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', ModItems.MUSIC_DISC_DONKEY_KONG)
+                .input('B', Items.DIAMOND)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_PSY9TH)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', ModItems.MUSIC_DISC_PSY)
+                .input('B', Items.DIAMOND)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_TSA)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', ModItems.MUSIC_DISC_SNAKE)
+                .input('B', Items.DIAMOND)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_SHOVELWARE)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BCB")
+                .input('A', ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .input('B', Items.DIAMOND)
+                .input('C', Items.WOODEN_SHOVEL)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_RIP2)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', ModItems.MUSIC_DISC_GRAND_DAD)
+                .input('B', Items.DIAMOND)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_BOMBERTRACKS)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BCB")
+                .input('A', ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .input('B', Items.DIAMOND)
+                .input('C', Blocks.TNT)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_INSTALLER)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BCB")
+                .input('A', ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .input('B', Items.DIAMOND)
+                .input('C', Items.REDSTONE)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_SPMM)
+                .pattern("BCB")
+                .pattern("BAB")
+                .pattern("BDB")
+                .input('A', ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .input('B', Items.DIAMOND)
+                .input('C', Blocks.RED_WOOL)
+                .input('D', Blocks.BLUE_WOOL)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_LAZYTUNES)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', ModTags.Items.LAZYTOWN_DISCS)
+                .input('B', Items.DIAMOND)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_INCOMPETRACKS)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', ModItems.MUSIC_DISC_HYPERCAM)
+                .input('B', Items.DIAMOND)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_MPP)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', ModItems.MUSIC_DISC_NINTENDO_POWER)
+                .input('B', Items.DIAMOND)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_BAKA_MITUNES)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BCB")
+                .input('A', ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .input('B', Items.DIAMOND)
+                .input('C', Items.POTION)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_JSRE)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', ModItems.MUSIC_DISC_DJ_PROFESSOR_K)
+                .input('B', Items.DIAMOND)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.MUSIC_DISC_EK)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', ModItems.MUSIC_DISC_HARUKA)
+                .input('B', Items.DIAMOND)
+                .criterion(hasItem(Items.DIAMOND), conditionsFromItem(Items.DIAMOND))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.SIIVA_JUKEBOX)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', Blocks.JUKEBOX)
+                .input('B', Blocks.STONE)
+                .criterion(hasItem(Items.STONE), conditionsFromItem(Items.STONE))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.VOICE_JUKEBOX)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', Blocks.JUKEBOX)
+                .input('B', Blocks.OBSIDIAN)
+                .criterion(hasItem(Items.OBSIDIAN), conditionsFromItem(Items.OBSIDIAN))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.KFAD_JUKEBOX)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', Blocks.JUKEBOX)
+                .input('B', Blocks.GOLD_BLOCK)
+                .criterion(hasItem(Items.GOLD_BLOCK), conditionsFromItem(Items.GOLD_BLOCK))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.ROBOBOT_JUKEBOX)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', Blocks.JUKEBOX)
+                .input('B', Blocks.IRON_BLOCK)
+                .criterion(hasItem(Items.IRON_BLOCK), conditionsFromItem(Items.IRON_BLOCK))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.MISSINGNO_JUKEBOX)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', Blocks.JUKEBOX)
+                .input('B', ModItems.MISSINGNO_FRAGMENT)
+                .criterion(hasItem(ModItems.MISSINGNO_FRAGMENT), conditionsFromItem(ModItems.MISSINGNO_FRAGMENT))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.SORRIZO_JUKEBOX)
+                .pattern("BCB")
+                .pattern("CAC")
+                .pattern("BCB")
+                .input('A', Blocks.JUKEBOX)
+                .input('B', Blocks.LIME_WOOL)
+                .input('C', Blocks.BLUE_WOOL)
+                .criterion(hasItem(Items.LIME_WOOL), conditionsFromItem(Items.LIME_WOOL))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.HALATION_JUKEBOX)
+                .pattern("BBB")
+                .pattern("BAB")
+                .pattern("BBB")
+                .input('A', Blocks.JUKEBOX)
+                .input('B', Blocks.SNOW_BLOCK)
+                .criterion(hasItem(Items.SNOW_BLOCK), conditionsFromItem(Items.SNOW_BLOCK))
+                .offerTo(recipeExporter);
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.LAW_DISORDER_JUKEBOX)
+                .pattern("BDC")
+                .pattern("BAC")
+                .pattern("BEC")
+                .input('A', Blocks.JUKEBOX)
+                .input('B', Blocks.COAL_BLOCK)
+                .input('C', Blocks.QUARTZ_BLOCK)
+                .input('D', Blocks.REDSTONE_BLOCK)
+                .input('E', Items.GOLD_INGOT)
+                .criterion(hasItem(Items.COAL_BLOCK), conditionsFromItem(Items.COAL_BLOCK))
+                .criterion(hasItem(Items.QUARTZ_BLOCK), conditionsFromItem(Items.QUARTZ_BLOCK))
                 .offerTo(recipeExporter);
     }
 
